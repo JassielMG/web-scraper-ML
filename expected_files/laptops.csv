@@ -1,0 +1,561 @@
+product,brand,price,price_discount,link_img
+"Apple Macbook Air (13 pulgadas, 2020, Chip M1, 256 GB de SSD, 8 GB de RAM) - Gris espacial",Apple,25999,23499,https://http2.mlstatic.com/D_NQ_NP_801112-MLA46516512347_062021-O.jpg
+"Laptop Huawei MateBook D15 space gray 15.6"", Intel Core i3 10110U  8GB de RAM 256GB SSD, Intel UHD Graphics 620 60 Hz 1920x1080px Windows 10 Home",Huawei,15999,11999,https://http2.mlstatic.com/D_NQ_NP_650921-MLA49910409816_052022-O.jpg
+"Laptop Lenovo IdeaPad 15ITL05  abyss blue táctil 15.6"", Intel Core i7 1165G7  12GB de RAM 512GB SSD, Intel Iris Xe Graphics G7 96EUs 1920x1080px Windows 10 Home",Lenovo,20415,18138,https://http2.mlstatic.com/D_NQ_NP_800024-MLA47583816789_092021-O.jpg
+"Ultrabook Huawei MateBook D16 space gray 16.1"", AMD Ryzen 5 4600H  8GB de RAM 512GB SSD, AMD Radeon RX Vega 6 1920x1080px Windows 10 Home",Huawei,20999,14999,https://http2.mlstatic.com/D_NQ_NP_996272-MLA48623669900_122021-O.jpg
+"Apple Macbook Air (13 pulgadas, 2020, Chip M1, 256 GB de SSD, 8 GB de RAM) - Oro",Apple,25999,23599,https://http2.mlstatic.com/D_NQ_NP_840786-MLA46516504421_062021-O.jpg
+"Laptop Dell Inspiron 3505 silver 15.6"", AMD Ryzen 5 3450U  8GB de RAM 256GB SSD, AMD Radeon RX Vega 8 (Ryzen 2000/3000) 60 Hz 1366x768px Windows 11 Home",Dell,12329,12329,https://http2.mlstatic.com/D_NQ_NP_899144-MLA47215243707_082021-O.jpg
+"Laptop Lenovo IdeaPad D330-10IGL  mineral gray táctil 10.1"", Intel Celeron N4020  4GB de RAM 64GB SSD, Intel UHD Graphics 600 1280x800px Windows 10 Home",Lenovo,4799,4799,https://http2.mlstatic.com/D_NQ_NP_804654-MLA49250655024_032022-O.jpg
+Laptop Porsche Design Acer Book Rs Core I5/8gb/512gb/touch,Acer,45999,24499,https://http2.mlstatic.com/D_NQ_NP_903705-MLM48139130029_112021-O.jpg
+Laptop Thin & Light Swift 3 Core I5/8gb/512gb/14  Fhd,Acer,22999,14499,https://http2.mlstatic.com/D_NQ_NP_969927-MLM48139146744_112021-O.jpg
+"Laptop Lenovo IdeaPad 14IIL05  platinum gray 14"", Intel Core i5 1035G1  8GB de RAM 512GB SSD, Intel UHD Graphics G1 1920x1080px Windows 10 Home",Lenovo,11149,11149,https://http2.mlstatic.com/D_NQ_NP_603529-MLA46388971837_062021-O.jpg
+"Laptop HP 240 G8 plateado ceniza oscuro 14"", Intel Celeron N4020  4GB de RAM 500GB HDD, Intel UHD Graphics 600 1366x768px Windows 10 Home",HP,5571,5571,https://http2.mlstatic.com/D_NQ_NP_612278-MLA48623757086_122021-O.jpg
+"Laptop HP 240 G7 plateado ceniza oscuro 14"", Intel Celeron N4020  4GB de RAM 500GB HDD, Intel UHD Graphics 600 1366x768px Windows 10 Home",HP,5499,5499,https://http2.mlstatic.com/D_NQ_NP_644547-MLA46010757705_052021-O.jpg
+"Laptop Lenovo V-Series V15-IGL  iron gray 15.6"", Intel Celeron N4020  4GB de RAM 500GB HDD, Intel UHD Graphics 600 1366x768px Windows 10 Home",Lenovo,5299,5299,https://http2.mlstatic.com/D_NQ_NP_675493-MLA45568495710_042021-O.jpg
+"Laptop Chuwi HeroBook Air space gray 11.6"", Intel Celeron N4020  4GB de RAM 128GB SSD, Intel UHD Graphics 600 1366x768px Windows 10 Home",Chuwi,5757,4562,https://http2.mlstatic.com/D_NQ_NP_824938-MLA48632646073_122021-O.jpg
+"Laptop HP DQ55 plata 14"", Intel Core i3 1115G4  8GB de RAM 256GB SSD, Intel UHD Graphics G4 48EUs 1920x1080px Windows 10 Home",HP,11385,10600,https://http2.mlstatic.com/D_NQ_NP_698308-MLA48850937002_012022-O.jpg
+"Laptop Evolve III Education Maestro E-Book gray 11.6"", Intel Celeron N3450  4GB de RAM 64GB SSD, Intel HD Graphics 500 60 Hz 1366x768px Windows 10",Evolve III,3069,3069,https://http2.mlstatic.com/D_NQ_NP_816928-MLA49169773626_022022-O.jpg
+"Laptop HP 14-cf2510la plateada natural 14"", Intel Celeron N4020  4GB de RAM 128GB SSD, Intel UHD Graphics 600 1366x768px Windows 10 Home",HP,5742,5742,https://http2.mlstatic.com/D_NQ_NP_719990-MLA49062879044_022022-O.jpg
+"Laptop Lenovo IdeaPad 15ITL6  arctic grey táctil 15.6"", Intel Core i5 1135G7  12GB de RAM 256GB SSD, Intel Iris Xe Graphics G7 80EUs 1920x1080px Windows 11 Home",Lenovo,15990,15990,https://http2.mlstatic.com/D_NQ_NP_638942-MLA49937651999_052022-O.jpg
+Laptop Chuwi Gemibook Pro Intel N5100 8+256gb Win10 Backlit,Chuwi,11807,7419,https://http2.mlstatic.com/D_NQ_NP_845001-CBT49291149570_032022-O.jpg
+Laptop Dell Inspiron 3501 I3 8gb Ram + 256gb Ssd Windows 11,Dell,14449,13499,https://http2.mlstatic.com/D_NQ_NP_721239-MLM49175405220_022022-O.jpg
+"Laptop HP 15-ef2126wm spruce blue 15.6"", AMD Ryzen 5 5500U  8GB de RAM 256GB SSD, AMD Radeon RX Vega 7 1920x1080px Windows 10 Home",HP,12967,12349,https://http2.mlstatic.com/D_NQ_NP_945528-MLA49251126700_032022-O.jpg
+"Laptop Huawei MateBook X Pro 2021 space gray táctil 13.9"", Intel Core i7 1165G7  16GB de RAM 512GB SSD, Intel Iris Xe Graphics G7 96EUs 3000x2000px Windows 10 Home",Huawei,39999,26999,https://http2.mlstatic.com/D_NQ_NP_865310-MLA48642825644_122021-O.jpg
+"Laptop HP Stream 14-cb171wm azul 14"", Intel Celeron N4000  4GB de RAM 64GB SSD, Intel HD Graphics 600 1366x768px Windows 10 Home",HP,4877,4877,https://http2.mlstatic.com/D_NQ_NP_699411-MLA45002677929_022021-O.jpg
+"Laptop HP 14-cb172wm rosa 14"", Intel Celeron N4000  4GB de RAM 64GB SSD, Intel UHD Graphics 600 1366x768px Windows 10 Home",HP,5319,5319,https://http2.mlstatic.com/D_NQ_NP_658685-MLA44940663144_022021-O.jpg
+"Ultrabook Huawei MateBook D16 space gray 16.1"", AMD Ryzen 5 4600H  16GB de RAM 512GB SSD, AMD Radeon RX Vega 6 60 Hz 1920x1080px Windows 10 Home",Huawei,18699,18699,https://http2.mlstatic.com/D_NQ_NP_912435-MLA48623669878_122021-O.jpg
+"Laptop HP 245 G8 plateada 14"", AMD Ryzen 5 3500U  8GB de RAM 1TB HDD, AMD Radeon RX Vega 8 1366x768px Windows 10 Home",HP,10122,10122,https://http2.mlstatic.com/D_NQ_NP_866698-MLA48632316143_122021-O.jpg
+"Laptop HP 240 G7 plateado ceniza oscuro 14"", Intel Celeron N4000  4GB de RAM 500GB HDD, Intel UHD Graphics 600 1366x768px Windows 10 Home",HP,8999,5549,https://http2.mlstatic.com/D_NQ_NP_954041-MLA46302470460_062021-O.jpg
+"Laptop Lenovo IdeaPad 14ITL05  graphite gray 14"", Intel Core i7 1165G7  8GB de RAM 512GB SSD, Intel Iris Xe Graphics G7 96EUs 1920x1080px Windows 10 Home",Lenovo,25999,24699,https://http2.mlstatic.com/D_NQ_NP_840022-MLA48642825231_122021-O.jpg
+"Laptop Lenovo IdeaPad 14IGL05  ice blue 14"", Intel Celeron N4020  4GB de RAM 64GB SSD, Intel UHD Graphics 600 1366x768px Windows 10 Home",Lenovo,7499,6399,https://http2.mlstatic.com/D_NQ_NP_647739-MLA47751459537_102021-O.jpg
+Laptop Acer Travelmate P6 Intel Core I7 8gb Ram + 1tb Ssd,Acer,33999,25499,https://http2.mlstatic.com/D_NQ_NP_663826-MLM45263511986_032021-O.jpg
+Laptop Thin & Light Swift 5 Core I5/8gb/512gb/ 14  Fhd Touch,Acer,27399,16999,https://http2.mlstatic.com/D_NQ_NP_984690-MLM48139172470_112021-O.jpg
+"Laptop Dell Latitude 3420 negra 14"", Intel Core i5 1135G7  8GB de RAM 256GB SSD, Gráficos Intel Iris Xe G7 80EUs 60 Hz 1366x768px Windows 10 Pro",Dell,14299,14299,https://http2.mlstatic.com/D_NQ_NP_991054-MLA48633604847_122021-O.jpg
+"Laptop HP 14-dq0005dx indigo blue 14"", Intel Celeron N4020  4GB de RAM 64GB SSD, Intel UHD Graphics 600 1366x768px Windows 10 Home",HP,10999,5389,https://http2.mlstatic.com/D_NQ_NP_743060-MLA48710302387_122021-O.jpg
+"Laptop HP 240 G7 plateado ceniza oscuro 14"", Intel Core i3 1005G1  4GB de RAM 500GB HDD, Intel UHD Graphics G1 (Ice Lake 32 EU) 1366x768px Windows 10 Home",HP,13999,8399,https://http2.mlstatic.com/D_NQ_NP_636831-MLA46010643940_052021-O.jpg
+"Apple MacBook Pro (13 pulgadas, 2020, Chip M1, 256 GB de SSD, 8 GB de RAM) - Gris espacial",Apple,30015,30015,https://http2.mlstatic.com/D_NQ_NP_875503-MLA48625634485_122021-O.jpg
+"Laptop Chuwi CoreBook X space gray 14"", Intel Core i5 8259U  16GB de RAM 512GB SSD, Intel Iris Plus Graphics 655 2160x1440px Windows 10 Home",Chuwi,12707,11898,https://http2.mlstatic.com/D_NQ_NP_915176-MLA49050905935_022022-O.jpg
+"Apple MacBook Pro (13 pulgadas, 2020, Chip M1, 256 GB de SSD, 8 GB de RAM) - Plata",Apple,31547,27445,https://http2.mlstatic.com/D_NQ_NP_603687-MLA48625563977_122021-O.jpg
+"Apple Macbook Air (13 pulgadas, 2020, Chip M1, 512 GB de SSD, 8 GB de RAM) - Gris espacial",Apple,32699,32699,https://http2.mlstatic.com/D_NQ_NP_948162-MLA46516517283_062021-O.jpg
+"Laptop Lenovo IdeaPad L340-15API  granite black 15.6"", AMD Ryzen 7 3700U  8GB de RAM 2TB HDD, AMD Radeon RX Vega 10 1920x1080px Windows 10 Home",Lenovo,15799,15799,https://http2.mlstatic.com/D_NQ_NP_811243-MLA45167171761_032021-O.jpg
+"Laptop Lenovo IdeaPad 15IML05  platinum gray 15.6"", Intel Core i3 10110U  8GB de RAM 1TB HDD, Intel UHD Graphics 620 1366x768px Windows 10 Home",Lenovo,11389,11389,https://http2.mlstatic.com/D_NQ_NP_820566-MLA48452096150_122021-O.jpg
+"Laptop Asus X515JA transparent silver 15.6"", Intel Core i5 1035G1  8GB de RAM 1TB HDD 128GB SSD 0GB Optane, Intel UHD Graphics G1 1920x1080px Windows 10 Home",Asus,18999,17999,https://http2.mlstatic.com/D_NQ_NP_778732-MLA49703326844_042022-O.jpg
+Laptop Lenovo Ideapad 3 Intel I3 8gb Ram + 128gb Ssd 1tb Hdd,Lenovo,14999,14249,https://http2.mlstatic.com/D_NQ_NP_867998-MLM49174330025_022022-O.jpg
+"Laptop Huawei MateBook D14 gris 14"", Intel Core i3 10110U  8GB de RAM 256GB SSD, Intel UHD Graphics 620 1920x1080px Windows 10 Home",Huawei,16999,16999,https://http2.mlstatic.com/D_NQ_NP_730333-MLA50017346161_052022-O.jpg
+"Laptop Acer A515-54 plateada 15.6"", Intel Core i7 10510U  8GB de RAM 1TB HDD 256GB SSD, Intel UHD Graphics 620 60 Hz 1920x1080px Windows 10 Home",Acer,22999,22999,https://http2.mlstatic.com/D_NQ_NP_949085-MLA48644452729_122021-O.jpg
+Laptop Matebook D15 Intel Core I5 8gb Ram + 512gb Ssd Gris,Huawei,18999,13999,https://http2.mlstatic.com/D_NQ_NP_660779-MLA48255580947_112021-O.jpg
+"Laptop gamer Lenovo Legion 15IMH05H  phantom black 15.6"", Intel Core i5 10300H  8GB de RAM 1TB HDD 128GB SSD, NVIDIA GeForce GTX 1660 Ti 120 Hz 1920x1080px Windows 10 Home",Lenovo,25599,25599,https://http2.mlstatic.com/D_NQ_NP_646549-MLA48809654733_012022-O.jpg
+"Laptop Asus Ultra Thin L510MA star black 15.6"", Intel Celeron N4020  4GB de RAM 128GB SSD, Intel UHD Graphics 600 1920x1080px Windows 10 Home",Asus,6457,6457,https://http2.mlstatic.com/D_NQ_NP_793491-MLA48927859285_012022-O.jpg
+"Laptop Dell Inspiron 3501 plata 15.6"", Intel Core i3 1115G4  8GB de RAM 256GB SSD, Intel UHD Graphics Xe G4 48EUs 60 Hz 1366x768px Windows 10 Home",Dell,11480,11480,https://http2.mlstatic.com/D_NQ_NP_674319-MLA49693591678_042022-O.jpg
+"Laptop Asus VivoBook E410MA blanca 14"", Intel Celeron N4020  4GB de RAM 128GB SSD, Intel UHD Graphics 600 1366x768px Windows 10 Home",Asus,7999,5999,https://http2.mlstatic.com/D_NQ_NP_936933-MLA46231822488_062021-O.jpg
+"Laptop Lenovo ThinkBook 14 IML mineral gray 14"", Intel Core i3 10110U  8GB de RAM 1TB HDD, Intel UHD Graphics 1920x1080px Windows 10 Pro",Lenovo,10700,10700,https://http2.mlstatic.com/D_NQ_NP_603976-MLA45630265354_042021-O.jpg
+"Laptop HP 15-dw1083wm scarlet red 15.6"", Intel Pentium Gold 6405U  4GB de RAM 128GB SSD, Intel UHD Graphics 1366x768px Windows 10 Home",HP,8675,8675,https://http2.mlstatic.com/D_NQ_NP_765261-MLA44940210309_022021-O.jpg
+"Laptop Dell Inspiron 3501 plata 15.6"", Intel Core i5 1135G7  8GB de RAM 256GB SSD, Intel Iris Xe Graphics G7 80EUs 60 Hz 1366x768px Windows 10 Home",Dell,16999,14449,https://http2.mlstatic.com/D_NQ_NP_674319-MLA49693591678_042022-O.jpg
+"Apple Macbook Pro (13 Pulgadas, Touch bar, cuatro puertos Thunderbolt 3, 512 GB de SSD) - Plata",Apple,41999,36999,https://http2.mlstatic.com/D_NQ_NP_777998-MLA48708038414_122021-O.jpg
+"Laptop HP Stream 11-ak0010nr royal blue 11.6"", Intel Celeron N4020  4GB de RAM 32GB SSD, Intel UHD Graphics 600 1366x768px Windows 10 Home",HP,8999,4859,https://http2.mlstatic.com/D_NQ_NP_638184-MLA48708303273_122021-O.jpg
+"Laptop HP 14-cf2542la gris pizarra 14"", Intel Celeron N4020  8GB de RAM 256GB SSD, Intel UHD Graphics 600 1366x768px Windows 10 Home",HP,12999,7553,https://http2.mlstatic.com/D_NQ_NP_768460-MLA49654243619_042022-O.jpg
+"Laptop HP 15-dw3033dx natural silver 15.6"", Intel Core i3 1115G4  8GB de RAM 256GB SSD, Intel UHD Graphics Xe G4 48EUs 1920x1080px Windows 10 Home",HP,16803,11090,https://http2.mlstatic.com/D_NQ_NP_813235-MLA48632024165_122021-O.jpg
+Asus Vivobook Go E510ma-br632t Celeron 8gb 128gb Emmc,Asus,9999,8316,https://http2.mlstatic.com/D_NQ_NP_764831-MLA48345993942_112021-O.jpg
+"Laptop Lenovo IdeaPad 15ITL05  graphite gray 15.6"", Intel Core i5 1135G7  16GB de RAM 256GB SSD, NVIDIA GeForce MX450 1920x1080px Windows 10 Home",Lenovo,17990,17990,https://http2.mlstatic.com/D_NQ_NP_627939-MLA46490617699_062021-O.jpg
+Laptop Gamer Dell 3515-v3 Ryzen 5 3450u 16gb 1tb 256gb Ssd,Dell,19899,15499,https://http2.mlstatic.com/D_NQ_NP_652797-MLM49015014876_022022-O.jpg
+Laptop Huawei Matebook D14 I3-10110u 8gb + 256gb Ssd Gris,Huawei,16999,16999,https://http2.mlstatic.com/D_NQ_NP_893704-MLM47180608937_082021-O.jpg
+"Laptop gamer Lenovo IdeaPad 15ARH05  chameleon blue 15.6"", AMD Ryzen 5 4600H  8GB de RAM 1TB HDD 128GB SSD, NVIDIA GeForce GTX 1650 60 Hz 1920x1080px Windows 10 Home",Lenovo,17999,17999,https://http2.mlstatic.com/D_NQ_NP_659988-MLA48623945614_122021-O.jpg
+"Apple Macbook Air (13 pulgadas, 2020, Chip M1, 512 GB de SSD, 8 GB de RAM) - Plata",Apple,31286,31286,https://http2.mlstatic.com/D_NQ_NP_684862-MLA46516504419_062021-O.jpg
+Laptop Asus Vivobook 15 Ryzen 3 8gb Ram + 1 Tb + 128 Ssd,Asus,13499,8999,https://http2.mlstatic.com/D_NQ_NP_664722-MLA49722693685_042022-O.jpg
+Laptop Acer Concept D 3 Ezel/ Core I5 / 8gb / 512gb / Fhd,Acer,22549,22549,https://http2.mlstatic.com/D_NQ_NP_639848-MLM47516029572_092021-O.jpg
+Laptop Gamer Dell G3 3590 I5-9300h 8gb 512gb Ssd Gtx 1650,Dell,19999,17999,https://http2.mlstatic.com/D_NQ_NP_826153-MLM45883090177_052021-O.jpg
+Laptop Dell Inspiron 3502 Pentium 8gb Ram + 128gb Ssd Plata,Dell,10999,8529,https://http2.mlstatic.com/D_NQ_NP_831994-MLM49175374364_022022-O.jpg
+"Laptop Dell Inspiron 3515 silver 15.5"", AMD Ryzen 5 3450U  8GB de RAM 256GB SSD, AMD Radeon RX Vega 8 60 Hz 1366x768px Windows 11 Home",Dell,28899,11848,https://http2.mlstatic.com/D_NQ_NP_605053-MLA49588154199_042022-O.jpg
+"Laptop Lenovo IdeaPad 14IGL05  ice blue 14"", Intel Pentium Silver N5030  4GB de RAM 128GB SSD, Intel UHD Graphics 605 1366x768px Windows 10 Home",Lenovo,8833,7773,https://http2.mlstatic.com/D_NQ_NP_875380-MLA47751580339_102021-O.jpg
+Laptop Hp 14 Fhd Ryzen 3 (8gb + Disco Duro 1tb) Con Win 10,HP,9815,9815,https://http2.mlstatic.com/D_NQ_NP_683164-CBT47094075225_082021-O.jpg
+"Laptop HP 240 G7 plateado ceniza oscuro 14"", Intel Celeron N4000  4GB de RAM 500GB HDD, Intel UHD Graphics 600 1366x768px Windows 10 Home",HP,8999,5549,https://http2.mlstatic.com/D_NQ_NP_954041-MLA46302470460_062021-O.jpg
+"Laptop Lenovo ThinkPad E14 black 14"", Intel Core i5 10210U  8GB de RAM 256GB SSD, Intel UHD Graphics 1920x1080px Windows 10 Pro",Lenovo,17699,17699,https://http2.mlstatic.com/D_NQ_NP_750041-MLA44986517223_022021-O.jpg
+Laptop Huawei Matebook D 15 Intel I3 8gb + 256gb Ssd Gris,Huawei,15999,11999,https://http2.mlstatic.com/D_NQ_NP_669406-MLM47307554752_082021-O.jpg
+"Apple Macbook Air (13 pulgadas, 2020, Chip M1, 512 GB de SSD, 8 GB de RAM) - Oro",Apple,32699,31064,https://http2.mlstatic.com/D_NQ_NP_830386-MLA46516504422_062021-O.jpg
+"Laptop Huawei MateBook 14 2020 space gray 14"", Intel Core i5 10210U  8GB de RAM 512GB SSD, NVIDIA GeForce MX350 2160x1440px Windows 10 Home",Huawei,23999,22999,https://http2.mlstatic.com/D_NQ_NP_904474-MLA47584528801_092021-O.jpg
+Laptop Dell Inspiron 5510 I5 8gb Ram 512ssd Windows 11 Azul,Dell,22999,17640,https://http2.mlstatic.com/D_NQ_NP_857624-MLM49175425173_022022-O.jpg
+Laptop Acer Travelmate P6 Intel Core I7 8gb Ram + 1tb Ssd,Acer,33999,25499,https://http2.mlstatic.com/D_NQ_NP_663826-MLM45263511986_032021-O.jpg
+"Laptop Asus VivoBook E410MA azul eléctrico 14"", Intel Celeron N4020  4GB de RAM 128GB SSD, Intel UHD Graphics 600 60 Hz 1366x768px Windows 10 Home",Asus,6490,6490,https://http2.mlstatic.com/D_NQ_NP_909197-MLA46231870126_062021-O.jpg
+"Laptop Huawei MateBook 13 space gray 13"", Intel Core i5 10210U  8GB de RAM 512GB SSD, Intel UHD Graphics 620 2160x1440px Windows 10 Home",Huawei,16999,16999,https://http2.mlstatic.com/D_NQ_NP_733779-MLA45017844835_022021-O.jpg
+Laptop Hp 14 Athlon ( 8gb Ram + 128 Ssd ) Amd Windows 10,HP,8107,8107,https://http2.mlstatic.com/D_NQ_NP_930427-CBT47970667217_102021-O.jpg
+"Laptop HP 14-dq0032dx blanca 14"", Intel Celeron N4020  4GB de RAM 64GB SSD, Intel UHD Graphics 600 1366x768px Windows 11 Home",HP,7499,6399,https://http2.mlstatic.com/D_NQ_NP_805805-MLA49695133704_042022-O.jpg
+"Apple MacBook Pro (14 pulgadas, Chip M1 Pro de Apple con CPU de 10 núcleos,, 16 GB RAM, 1 TB SSD) - color plata",Apple,66499,66499,https://http2.mlstatic.com/D_NQ_NP_789833-MLA48354699067_112021-O.jpg
+"Laptop HP 15-dw0083wm scarlet red 15.6"", Intel Pentium Silver N5000  4GB de RAM 128GB SSD, Intel UHD Graphics 605 1366x768px Windows 10 Home",HP,8578,8578,https://http2.mlstatic.com/D_NQ_NP_612201-MLA48644766553_122021-O.jpg
+"Laptop Hp 15-ef1004la Amd 3020e 4gb 128gb Ssd 15,6  Plateado Natural",HP,9599,7699,https://http2.mlstatic.com/D_NQ_NP_701604-MLM49727375096_042022-O.jpg
+Laptop Huawei Matebook 13 Intel I5-1135g7 11va Gen 8gb 512gb,Huawei,24999,14999,https://http2.mlstatic.com/D_NQ_NP_705192-MLM50163182048_062022-O.jpg
+"Laptop HP 240 G7 plateado ceniza oscuro 14"", Intel Core i3 1005G1  4GB de RAM 500GB HDD, Intel UHD Graphics G1 (Ice Lake 32 EU) 1366x768px Windows 10 Home",HP,13999,8399,https://http2.mlstatic.com/D_NQ_NP_636831-MLA46010643940_052021-O.jpg
+Laptop Gamer Acer Nitro 5 Rtx3060 I7 8gb 512gb 15.6 ,Acer,33999,33999,https://http2.mlstatic.com/D_NQ_NP_610515-MLM49888286227_052022-O.jpg
+Laptop Dell Inspiron 3515 Ryzen 3 8gb Ram 256ssd Win11 Plata,Dell,12999,10138,https://http2.mlstatic.com/D_NQ_NP_992498-MLM49175451043_022022-O.jpg
+"Laptop gamer MSI Thin GF63 negra 15.6"", Intel Core i5 9300H  8GB de RAM 256GB SSD, NVIDIA GeForce GTX 1650 1920x1080px Windows 10 Home",MSI,18413,18413,https://http2.mlstatic.com/D_NQ_NP_631703-MLA47861783712_102021-O.jpg
+"Laptop Dell Inspiron 3505 gris 15.6"", AMD Ryzen 5 3450U  16GB de RAM 1TB HDD 256GB SSD, AMD Radeon RX Vega 8 (Ryzen 2000/3000) 60 Hz 1366x768px Windows 10 Home",Dell,17870,17870,https://http2.mlstatic.com/D_NQ_NP_921052-MLA47215256520_082021-O.jpg
+Laptop Acer Nitro 5 Gamer Intel I7 16gb 256+1tb Nvidia 1650,Acer,28999,28999,https://http2.mlstatic.com/D_NQ_NP_692632-MLM49839226186_052022-O.jpg
+"Laptop gamer Asus TUF Gaming FX506LH negra 15.6"", Intel Core i5 10300H  8GB de RAM 512GB SSD, NVIDIA GeForce GTX 1650 144 Hz 1920x1080px Windows 10",Asus,21108,21108,https://http2.mlstatic.com/D_NQ_NP_689267-MLA48633244356_122021-O.jpg
+Laptop Gamer Dell Inspiron Ryzen 5 16gb 1tb 256gb Ssd Vega 8,Dell,19899,14899,https://http2.mlstatic.com/D_NQ_NP_840812-MLM49041131110_022022-O.jpg
+Laptop Asus Tuf 15 Ryzen 5 8gb + 512 Ssd Rtx 3050 4gb Gddr6,Asus,25999,25999,https://http2.mlstatic.com/D_NQ_NP_850911-MLA49722745022_042022-O.jpg
+"Laptop gamer Lenovo IdeaPad 15IMH05  onyx black 15.6"", Intel Core i7 10750H  8GB de RAM 1TB HDD 128GB SSD, NVIDIA GeForce GTX 1650 Ti 60 Hz 1920x1080px Windows 10 Home",Lenovo,27999,26599,https://http2.mlstatic.com/D_NQ_NP_908886-MLA45229516792_032021-O.jpg
+"Apple MacBook Pro (13 pulgadas, 2020, Chip M1, 512 GB de SSD, 8 GB de RAM) - Plata",Apple,39999,39999,https://http2.mlstatic.com/D_NQ_NP_610440-MLA48625650369_122021-O.jpg
+Laptop Acer Aspire 3 Core I3 4gb Ram + 128gb Ssd Windows 10,Acer,12999,9996,https://http2.mlstatic.com/D_NQ_NP_717347-MLM48476564267_122021-O.jpg
+"Laptop Lenovo ThinkPad L14 negra 14"", Intel Core i7 10510U  16GB de RAM 512GB SSD, Intel UHD Graphics 1920x1080px Windows 10 Pro",Lenovo,22999,22999,https://http2.mlstatic.com/D_NQ_NP_934973-MLA45240189369_032021-O.jpg
+"Laptop Dell Inspiron 3501 plata 15.6"", Intel Core i3 1005G1  4GB de RAM 1TB HDD, Intel UHD Graphics G1 60 Hz 1366x768px Windows 10 Home",Dell,17799,11747,https://http2.mlstatic.com/D_NQ_NP_674319-MLA49693591678_042022-O.jpg
+Lenovo 15 Fhd Core I7 11va ( 12gb + 512 Ssd ) Laptop Touch,Lenovo,22377,19593,https://http2.mlstatic.com/D_NQ_NP_940497-CBT47622979763_092021-O.jpg
+"Apple MacBook Pro (13 pulgadas, 2020, Chip M1, 1 TB de SSD, 16 GB de RAM) - Gris espacial",Apple,50999,50999,https://http2.mlstatic.com/D_NQ_NP_923212-MLA48625634475_122021-O.jpg
+Laptop Hp Rosa Touch ( 4gb + 64gb Ssd ) Intel 4020 Windows,HP,7520,6383,https://http2.mlstatic.com/D_NQ_NP_601227-CBT49422686567_032022-O.jpg
+Laptop Asus Vivobook 15.6'' Oled Ryzen 5 8gb Ram 512ssd Gold,Asus,19999,18999,https://http2.mlstatic.com/D_NQ_NP_777643-MLA49066043177_022022-O.jpg
+"Laptop Gateway 2en1 Touch 11,6 Celeron 4ram 64gb Office 365.",Gateway,5879,5599,https://http2.mlstatic.com/D_NQ_NP_747579-MLM48856493333_012022-O.jpg
+Laptop Hp 14 Fhd I3 11.ª Gen. Intel W10 De 8 Gb + Disco 256,HP,12170,12170,https://http2.mlstatic.com/D_NQ_NP_803343-CBT47094061159_082021-O.jpg
+"Laptop Dell Inspiron 7506 Black element black táctil 15.6"", Intel Core i7 1165G7  16GB de RAM 1 TB SSD, Intel Iris Xe Graphics G7 96EUs 3840x2160px Windows 10 Home",Dell,31841,31841,https://http2.mlstatic.com/D_NQ_NP_893952-MLA48808840282_012022-O.jpg
+"Laptop Dell Vostro 5390 negra y gris 13.3"", Intel Core i7 8565U  8GB de RAM 256GB SSD, NVIDIA GeForce MX250 60 Hz 1920x1080px Windows 10 Home",Dell,23490,23490,https://http2.mlstatic.com/D_NQ_NP_859662-MLA45720414725_042021-O.jpg
+"Laptop Huawei MateBook X Pro 2020 gray táctil 13.9"", Intel Core i5 10210U  16GB de RAM 512GB SSD, NVIDIA GeForce MX250 60 Hz 3000x2000px Windows 10 Home",Huawei,26371,26371,https://http2.mlstatic.com/D_NQ_NP_860671-MLA45812359655_052021-O.jpg
+Laptop Asus Vivobook 15 Oled I5 11ava Gen 12gb Ram 512 Ssd,Asus,19999,19999,https://http2.mlstatic.com/D_NQ_NP_740162-MLA49722745005_042022-O.jpg
+Laptop Huawei Matebook 14 Ryzen 5 4600h 8gb Ram + 512gb Ssd,Huawei,19999,16227,https://http2.mlstatic.com/D_NQ_NP_668017-MLM50101993401_052022-O.jpg
+Laptop Chuwi Ubook X Intel N4120 Windows10 8gb Ram 256gb Ssd,Chuwi,8628,7937,https://http2.mlstatic.com/D_NQ_NP_891696-CBT49980350764_052022-O.jpg
+"Laptop Hp 240 G8 14 , Intel Celeron N4020  4gb De Ram 500gb ",HP,6669,6669,https://http2.mlstatic.com/D_NQ_NP_779567-MLA48623614781_122021-O.jpg
+Laptop Gamer Dell Amd Radeon Vega Ryzen 5 8gb Ssd 256gb 15.6,Dell,16899,12299,https://http2.mlstatic.com/D_NQ_NP_951795-MLM49040903728_022022-O.jpg
+Laptop Lenovo 100 Chromebook Mediatek 4gb Ram 32gb+64gb Kit ,Lenovo,3599,2699,https://http2.mlstatic.com/D_NQ_NP_766195-MLM50172958961_062022-O.jpg
+"Laptop HP 15-ef1300wm plata 15.6"", AMD Ryzen 3 3250U  4GB de RAM 128GB SSD, AMD Radeon RX Vega 3 1920x1080px Windows 10 Home",HP,10999,10119,https://http2.mlstatic.com/D_NQ_NP_947974-MLA48635952720_122021-O.jpg
+Laptop Gemibook Pro J4125 Con Win10 Y 8 Gb De Memoria Ram,Chuwi,7937,7381,https://http2.mlstatic.com/D_NQ_NP_670803-CBT48962839601_012022-O.jpg
+Laptop Huawei Matebook D14 I3-10110u 8gb + 256gb Ssd Gris,Huawei,16999,16999,https://http2.mlstatic.com/D_NQ_NP_893704-MLM47180608937_082021-O.jpg
+Laptop Lenovo Ideapad 3 Intel I3 8gb Ram + 128gb Ssd 1tb Hdd,Lenovo,14999,14249,https://http2.mlstatic.com/D_NQ_NP_867998-MLM49174330025_022022-O.jpg
+Laptop Evolve 11.6 4g Lte Ram 4gb Memoria 64gb Intel Celeron,Evolve III,3069,3069,https://http2.mlstatic.com/D_NQ_NP_678525-MLM48536871346_122021-O.jpg
+"Apple Macbook Pro (13 Pulgadas, Touch bar, cuatro puertos Thunderbolt 3, 512 GB de SSD) - Plata",Apple,41999,36999,https://http2.mlstatic.com/D_NQ_NP_777998-MLA48708038414_122021-O.jpg
+Laptop Dell Inspiron 3515 Ryzen 3 8gb Ram 256ssd Win11 Plata,Dell,12999,10138,https://http2.mlstatic.com/D_NQ_NP_992498-MLM49175451043_022022-O.jpg
+Laptop Chuwi Gemibook Pro Intel N5100 8+256gb Win10 Backlit,Chuwi,11807,7419,https://http2.mlstatic.com/D_NQ_NP_845001-CBT49291149570_032022-O.jpg
+"Laptop gamer Lenovo IdeaPad 15IMH05  chameleon blue 15.6"", Intel Core i5 10300H  8GB de RAM 1TB HDD 256GB SSD, NVIDIA GeForce GTX 1650Ti 60 Hz 1920x1080px Windows 10 Home",Lenovo,19990,19990,https://http2.mlstatic.com/D_NQ_NP_707083-MLA48624351497_122021-O.jpg
+Laptop Toshiba Dynabook  13.3 Celeron 128gb Ssd 4gb Ram W10p,Toshiba,7999,5599,https://http2.mlstatic.com/D_NQ_NP_903482-MLM49374989407_032022-O.jpg
+"Laptop Gateway 2en1 Touch 11,6 Celeron 4ram 64gb Office 365.",Gateway,5879,5599,https://http2.mlstatic.com/D_NQ_NP_747579-MLM48856493333_012022-O.jpg
+Laptop Hp Pavilion 14-cf2517la Intel I3 8gb 1tb Hdd W10 ,HP,9590,9110,https://http2.mlstatic.com/D_NQ_NP_829704-MLM49619749593_042022-O.jpg
+Laptop Lenovo Ideapad Core I5 8gb Ram + 512gb Ssd Windows 10,Lenovo,20999,15399,https://http2.mlstatic.com/D_NQ_NP_761191-MLM47168578706_082021-O.jpg
+"Laptop Huawei MateBook X Pro 2020 gray táctil 13.9"", Intel Core i5 10210U  16GB de RAM 512GB SSD, NVIDIA GeForce MX250 60 Hz 3000x2000px Windows 10 Home",Huawei,26371,26371,https://http2.mlstatic.com/D_NQ_NP_860671-MLA45812359655_052021-O.jpg
+Laptop Acer Nitro 5 Gamer Intel I7 16gb 256+1tb Nvidia 1650,Acer,28999,28999,https://http2.mlstatic.com/D_NQ_NP_692632-MLM49839226186_052022-O.jpg
+Laptop Lenovo Chromebook Yoga N23 Touchscreen 2 En 1 Tablet  (Reacondicionado),Lenovo,2588,2173,https://http2.mlstatic.com/D_NQ_NP_620179-MLM49395065264_032022-O.jpg
+"Laptop HP 240 G7 plateado ceniza oscuro 14"", Intel Core i3 1005G1  4GB de RAM 500GB HDD, Intel UHD Graphics G1 (Ice Lake 32 EU) 1366x768px Windows 10 Pro",HP,10499,8924,https://http2.mlstatic.com/D_NQ_NP_945089-MLA46010972084_052021-O.jpg
+Laptop Dell Latitude 3410 Core I5-10210u  8gb  1tb,Dell,13999,12879,https://http2.mlstatic.com/D_NQ_NP_813935-MLM45732733004_042021-O.jpg
+Laptop Dell Latitude 7390 I5-8350u 8gb 256gb Teclado Inglés,Dell,12999,11959,https://http2.mlstatic.com/D_NQ_NP_712610-MLM48556955810_122021-O.jpg
+"Laptop Dell Inspiron 5510 blue 15.6"", Intel Core i5 11320H  8GB de RAM 256GB SSD, Intel Iris Xe Graphics G7 96EUs 60 Hz 1920x1080px Windows 11 Home",Dell,16990,16990,https://http2.mlstatic.com/D_NQ_NP_881565-MLA49043957207_022022-O.jpg
+"Laptop Dell Inspiron 3501 plata 15.6"", Intel Core i3 1005G1  4GB de RAM 1TB HDD, Intel UHD Graphics G1 60 Hz 1366x768px Windows 10 Home",Dell,17799,11747,https://http2.mlstatic.com/D_NQ_NP_674319-MLA49693591678_042022-O.jpg
+Laptop Asus Tuf 15 Ryzen 5 8gb + 512 Ssd Rtx 3050 4gb Gddr6,Asus,25999,25999,https://http2.mlstatic.com/D_NQ_NP_850911-MLA49722745022_042022-O.jpg
+"Laptop Dell Vostro 3401 negra 14"", Intel Core i3 1005G1  8GB de RAM 1TB HDD, Intel UHD Graphics 1366x768px Windows 10 Pro",Dell,11370,11370,https://http2.mlstatic.com/D_NQ_NP_846528-MLA47131590839_082021-O.jpg
+Laptop Hp 14 Stream 4gb + 64 Ssd / N4000 W10 Blue,HP,5884,5086,https://http2.mlstatic.com/D_NQ_NP_848683-CBT47078268871_082021-O.jpg
+"Laptop Dell Vostro 3405 negra 14"", AMD Ryzen 5 3450U  8GB de RAM 256GB SSD, AMD Radeon RX Vega 8 60 Hz 1920x1080px Windows 10 Pro",Dell,14199,14199,https://http2.mlstatic.com/D_NQ_NP_789459-MLA48622611705_122021-O.jpg
+"Laptop Dell Latitude 3510 gris 15.6"", Intel Core i5 10210U  8GB de RAM 256GB SSD, Intel UHD Graphics 620 1920x1080px Windows 10 Pro",Dell,18201,18201,https://http2.mlstatic.com/D_NQ_NP_980310-MLA44938932860_022021-O.jpg
+Laptop Huawei Matebook D 15 Intel I3 8gb + 256gb Ssd Gris,Huawei,15999,11999,https://http2.mlstatic.com/D_NQ_NP_669406-MLM47307554752_082021-O.jpg
+"Asus Go,14 Fhd,celeron,4gb Ram,128 Ssd,numberpad",Asus,7999,5999,https://http2.mlstatic.com/D_NQ_NP_921900-MLA49865664421_052022-O.jpg
+Laptop 15.6 Gemibook X N5100 Chuwi 4+128gb Expandible Metal,Chuwi,6431,6110,https://http2.mlstatic.com/D_NQ_NP_763052-CBT48737998903_012022-O.jpg
+Laptop Dell Inspiron 3481 Corei3-7020u 4gb Ram 1tb,Dell,9999,8999,https://http2.mlstatic.com/D_NQ_NP_621052-MLM50077362037_052022-O.jpg
+"Laptop HP 250 G8 plateado ceniza oscuro 15.6"", Intel Core i7 1065G7  8GB de RAM 1TB HDD, Intel Iris Plus Graphics G7 1366x768px Windows 10 Pro",HP,21199,21199,https://http2.mlstatic.com/D_NQ_NP_901061-MLA48623916890_122021-O.jpg
+Laptop Hp 14-dq2035 Intel Corei5 12gb 256 Gb W10h,HP,17999,12959,https://http2.mlstatic.com/D_NQ_NP_797454-MLM47633406241_092021-O.jpg
+"Laptop Lenovo V-Series V14-IIL  iron gray 14"", Intel Core i3 1005G1  8GB de RAM 1TB HDD, Intel UHD Graphics 1366x768px Windows 10 Pro",Lenovo,10565,10565,https://http2.mlstatic.com/D_NQ_NP_900098-MLA46302567004_062021-O.jpg
+"Laptop HP ProBook 440 G8 plata 14"", Intel Core i5 1135G7  8GB de RAM 256GB SSD, Intel Iris Xe Graphics G7 80EUs 1366x768px Windows 10 Pro",HP,21146,21146,https://http2.mlstatic.com/D_NQ_NP_850790-MLA48642403294_122021-O.jpg
+Laptop Barata Lenovo E470 Core I3 7ma 8 Gb 500 Hdd 14  W10  (Reacondicionado),Lenovo,5995,5515,https://http2.mlstatic.com/D_NQ_NP_770278-MLM49283893601_032022-O.jpg
+Laptop Dell Latitude 5410 Corei5-10210u 8gb 256gb + Webcam,Dell,12999,12349,https://http2.mlstatic.com/D_NQ_NP_789661-MLM49657979495_042022-O.jpg
+"Laptop Lenovo IdeaPad 15IML05  platinum gray 15.6"", Intel Core i3 10110U  8GB de RAM 1TB HDD 128GB SSD, Intel UHD Graphics 620 1366x768px Windows 10 Home",Lenovo,11699,11699,https://http2.mlstatic.com/D_NQ_NP_820566-MLA48452096150_122021-O.jpg
+"Laptop HP 14-cf2033wm silver 14"", Intel Pentium Silver N5030  4GB de RAM 128GB SSD, Intel UHD Graphics 605 1366x768px Windows 10 Home",HP,9499,9499,https://http2.mlstatic.com/D_NQ_NP_915081-MLA48642456866_122021-O.jpg
+Laptop Gamer Dell Inspiron Ryzen 5 16gb 1tb 256gb Ssd Vega 8,Dell,19899,14899,https://http2.mlstatic.com/D_NQ_NP_840812-MLM49041131110_022022-O.jpg
+"Laptop Asus VivoBook F513EA black 15.6"", Intel Core i3 1115G4  8GB de RAM 256GB SSD, Intel UHD Graphics Xe G4 48EUs 1920x1080px Windows 10 Home",Asus,14999,13799,https://http2.mlstatic.com/D_NQ_NP_904521-MLA48709113706_122021-O.jpg
+Laptop Lenovo Chromebook 11 Pul Hd 4gb 16gb Wifi Bluetooth (Reacondicionado),Lenovo,3499,1994,https://http2.mlstatic.com/D_NQ_NP_885732-MLM48852567569_012022-O.jpg
+"Apple MacBook Pro (13 pulgadas, 2020, Chip M1, 512 GB de SSD, 8 GB de RAM) - Plata",Apple,39999,39999,https://http2.mlstatic.com/D_NQ_NP_610440-MLA48625650369_122021-O.jpg
+Acer Aspire 1 / Intel Celeron / Ram 4g Ddr4/ 64gb/ 14 ,Acer,6666,5899,https://http2.mlstatic.com/D_NQ_NP_788228-MLM48814079278_012022-O.jpg
+Laptop Asus Vivobook 15 Oled I5 11ava Gen 12gb Ram 512 Ssd,Asus,19999,19999,https://http2.mlstatic.com/D_NQ_NP_740162-MLA49722745005_042022-O.jpg
+Laptop Lenovo V14 Intel Celeron 128gb 4gb Ram 14puLG Win10,Lenovo,8299,4813,https://http2.mlstatic.com/D_NQ_NP_757052-MLM50173154036_062022-O.jpg
+Laptop Lenovo V14-ada 14 Athlon Silver 3050u 4gb 500gb W10h,Lenovo,5645,5645,https://http2.mlstatic.com/D_NQ_NP_851904-MLM49222481740_022022-O.jpg
+Laptop Lenovo Chromebook 14  4/16gb Intel Celeron Dual Core (Reacondicionado),Lenovo,3999,2699,https://http2.mlstatic.com/D_NQ_NP_961045-MLM48463343480_122021-O.jpg
+Laptop Lenovo Ideapad D330-10igl Touch Ram 4gb 64gb W10pro,Lenovo,4799,4559,https://http2.mlstatic.com/D_NQ_NP_872334-MLM50173645254_062022-O.jpg
+Laptop Gemibook Pro J4125 8gb 256 Ssd Metal Backlit,Chuwi,7937,7381,https://http2.mlstatic.com/D_NQ_NP_654891-CBT48964952250_012022-O.jpg
+Laptop Hp 15.6 Touch Core I5-1135 12gb Ram 1tb 15-dw3035cl,HP,14999,14999,https://http2.mlstatic.com/D_NQ_NP_951052-MLM49704258745_042022-O.jpg
+"Laptop Lenovo IdeaPad 15ALC6  sand 15.6"", AMD Ryzen 5 5500U  8GB de RAM 256GB SSD, AMD Radeon RX Vega 7 1920x1080px Windows 10 Home",Lenovo,15999,14719,https://http2.mlstatic.com/D_NQ_NP_910870-MLA48623669968_122021-O.jpg
+Laptop Hp 640 G2 - Core I7 Gen 6 - 8 Ram - Hdd 500gb (Reacondicionado),HP,5499,5499,https://http2.mlstatic.com/D_NQ_NP_618760-MLM49709917217_042022-O.jpg
+"Laptop HP 240 G7 plateado ceniza oscuro 14"", Intel Core i3 1005G1  8GB de RAM 1TB HDD, Intel UHD Graphics G1 (Ice Lake 32 EU) 1366x768px Windows 10 Home",HP,11999,11999,https://http2.mlstatic.com/D_NQ_NP_694019-MLA46479872032_062021-O.jpg
+Laptop 15.6 Gemibook X N5100 Chuwi 4+128gb Expandible Metal,Chuwi,6431,6110,https://http2.mlstatic.com/D_NQ_NP_763052-CBT48737998903_012022-O.jpg
+"Laptop gamer Lenovo IdeaPad 15IMH05  onyx black 15.6"", Intel Core i7 10750H  8GB de RAM 1TB HDD 128GB SSD, NVIDIA GeForce GTX 1650 Ti 60 Hz 1920x1080px Windows 10 Home",Lenovo,27999,26599,https://http2.mlstatic.com/D_NQ_NP_908886-MLA45229516792_032021-O.jpg
+Laptop Asus 14 Vivobook Fhd Core I3-1115g4 Ram 8gb Ssd 128gb,Asus,11999,10599,https://http2.mlstatic.com/D_NQ_NP_692571-MLM48624074540_122021-O.jpg
+"Laptop Lenovo V-Series V14-IIL  iron gray 14"", Intel Core i3 1005G1  8GB de RAM 1TB HDD, Intel UHD Graphics 1366x768px Windows 10 Pro",Lenovo,10565,10565,https://http2.mlstatic.com/D_NQ_NP_900098-MLA46302567004_062021-O.jpg
+"Laptop Lenovo Touch 15,6 Core I3 8gb Ram 256gb Ssd 15iml05",Lenovo,11799,11799,https://http2.mlstatic.com/D_NQ_NP_934384-MLM48830057960_012022-O.jpg
+Laptop Acer Concept D 3 Ezel/ Core I5 / 8gb / 512gb / Fhd,Acer,22549,22549,https://http2.mlstatic.com/D_NQ_NP_639848-MLM47516029572_092021-O.jpg
+"Laptop gamer Lenovo IdeaPad 15IMH05  chameleon blue 15.6"", Intel Core i5 10300H  8GB de RAM 1TB HDD 256GB SSD, NVIDIA GeForce GTX 1650Ti 60 Hz 1920x1080px Windows 10 Home",Lenovo,19990,19990,https://http2.mlstatic.com/D_NQ_NP_707083-MLA48624351497_122021-O.jpg
+Laptop Nitro 5 Ci7/ 8gb/ 512gb Ssd/ Rtx3050/ 15.6  144hz,Acer,29699,29699,https://http2.mlstatic.com/D_NQ_NP_667421-MLM49869181303_052022-O.jpg
+Laptop Asus Zenbook Flip 15.6 Touch I7 16 Ram 512ssd Gtx1650,Asus,28499,28499,https://http2.mlstatic.com/D_NQ_NP_884810-MLM48929348004_012022-O.jpg
+Laptop 15.6 Gemibook X Intel N5100 4 Gb 128 Ssd Windows 10,Chuwi,8637,6132,https://http2.mlstatic.com/D_NQ_NP_669570-CBT48289161735_112021-O.jpg
+Laptop Dell Latitude 3410 Core I5-10210u  8gb  1tb,Dell,13999,12879,https://http2.mlstatic.com/D_NQ_NP_813935-MLM45732733004_042021-O.jpg
+Laptop Dell Inspiron 5510 I5 8gb Ram 512ssd Windows 11 Azul,Dell,22999,17640,https://http2.mlstatic.com/D_NQ_NP_857624-MLM49175425173_022022-O.jpg
+Laptop Gamer Dell Ryzen 5 3450u 8gb 256gb Ssd Radeon Vega 8,Dell,16899,12299,https://http2.mlstatic.com/D_NQ_NP_652605-MLM48466649689_122021-O.jpg
+Notebook Lenovo I5 Gtx1650 Ti 16gb Ram + 1tb Hdd + 256gb Ssd,Lenovo,27999,19874,https://http2.mlstatic.com/D_NQ_NP_904190-MLM49174360079_022022-O.jpg
+"Laptop HP 240 G7 plateado ceniza oscuro 14"", Intel Core i3 1005G1  4GB de RAM 500GB HDD, Intel UHD Graphics G1 (Ice Lake 32 EU) 1366x768px Windows 10 Pro",HP,10499,8924,https://http2.mlstatic.com/D_NQ_NP_945089-MLA46010972084_052021-O.jpg
+"Laptop gamer Acer Nitro 5 AN515-54 obsidian black 15.6"", Intel Core i5 9300H  8GB de RAM 256GB SSD, NVIDIA GeForce GTX 1650 1920x1080px Windows 10 Home",Acer,22799,22799,https://http2.mlstatic.com/D_NQ_NP_772462-MLA43372756173_092020-O.jpg
+Laptop Lenovo V14-ada 14 Athlon Silver 3050u 4gb 500gb W10h,Lenovo,5645,5645,https://http2.mlstatic.com/D_NQ_NP_851904-MLM49222481740_022022-O.jpg
+Laptop Lenovo Chromebook Yoga N23 Touchscreen 2 En 1 Tablet  (Reacondicionado),Lenovo,2588,2173,https://http2.mlstatic.com/D_NQ_NP_620179-MLM49395065264_032022-O.jpg
+Laptop Hp Notebook 245 G8 Amd Ryzen 5 Ram 8 Gb Dd 1 Tb,HP,12799,12799,https://http2.mlstatic.com/D_NQ_NP_907065-MLM47460113652_092021-O.jpg
+Laptop Gamer Msi Rtx 3060 Core I5 10500h 8gb Ssd 512gb 15.6,MSI,42189,24469,https://http2.mlstatic.com/D_NQ_NP_714909-MLM49665662736_042022-O.jpg
+Laptop Acer Predator Triton 500 Rtx2070 Core I7 32gb 1tb Ssd,Acer,62899,50999,https://http2.mlstatic.com/D_NQ_NP_705741-MLM47622640759_092021-O.jpg
+Laptop Dell Latitude 5410 Corei5-10210u 8gb 256gb + Webcam,Dell,12999,12349,https://http2.mlstatic.com/D_NQ_NP_789661-MLM49657979495_042022-O.jpg
+"Laptop Asus VivoBook F513EA black 15.6"", Intel Core i3 1115G4  8GB de RAM 256GB SSD, Intel UHD Graphics Xe G4 48EUs 1920x1080px Windows 10 Home",Asus,14999,13799,https://http2.mlstatic.com/D_NQ_NP_904521-MLA48709113706_122021-O.jpg
+Laptop Gamer Msi Gf65 Thin 15.6 I5-10500h Rtx3060 8gb 512gb,MSI,28499,26179,https://http2.mlstatic.com/D_NQ_NP_703530-MLM49368998435_032022-O.jpg
+Laptop Dell Latitude 3420 14 Hd I5-1135g7 8gb 256gb Ssd W10p,Dell,14668,14668,https://http2.mlstatic.com/D_NQ_NP_963158-MLM47341921383_092021-O.jpg
+Laptop Gamer Acer Nitro 5 Rtx3060 I7 8gb 512gb 15.6 ,Acer,33999,33999,https://http2.mlstatic.com/D_NQ_NP_610515-MLM49888286227_052022-O.jpg
+Lenovo Laptop Yoga 7 14'' Core I7 12gb Ram + 512gb Ssd Gris,Lenovo,29999,22856,https://http2.mlstatic.com/D_NQ_NP_672722-MLM49174163838_022022-O.jpg
+Laptop Dell Inspiron 3515 Ryzen 3 8gb Ram 256ssd Win11 Plata,Dell,12999,10138,https://http2.mlstatic.com/D_NQ_NP_992498-MLM49175451043_022022-O.jpg
+"Laptop Chuwi CoreBook X space gray 14"", Intel Core i5 8259U  16GB de RAM 512GB SSD, Intel Iris Plus Graphics 655 2160x1440px Windows 10 Home",Chuwi,12707,11898,https://http2.mlstatic.com/D_NQ_NP_915176-MLA49050905935_022022-O.jpg
+Laptop Lenovo Ideapad D330-10igl Pantalla Táctil W10pro,Lenovo,4799,4799,https://http2.mlstatic.com/D_NQ_NP_668563-MLM50173597625_062022-O.jpg
+Laptop Huawei Matebook 13s Intel I7 11va Gen 16gb 512gb Ssd,Huawei,34999,27549,https://http2.mlstatic.com/D_NQ_NP_940730-MLA47846532276_102021-O.jpg
+Laptop Gamer Acer Predator Triton 900 Pt917-71-9980,Acer,119999,119999,https://http2.mlstatic.com/D_NQ_NP_641666-MLM45263512474_032021-O.jpg
+Laptop Dell Latitude 3420 Corei3-1115g4 4gb 1tb,Dell,10999,10449,https://http2.mlstatic.com/D_NQ_NP_983964-MLM49244494353_032022-O.jpg
+Laptop Hp 240 G8 Intel Core I5 -1035g1 8gb 1tb Win 10 14 Hd,HP,12999,12349,https://http2.mlstatic.com/D_NQ_NP_684594-MLM48767324273_012022-O.jpg
+Laptop Huawei Matebook 14 2k R7 4800h 8gb+512gb Gris +soundx,Huawei,29999,22999,https://http2.mlstatic.com/D_NQ_NP_748932-MLA47863222528_102021-O.jpg
+Msi Gf63 Gaming Laptop Core I5 Nvidia Gtx1650 256gb Ssd 8gb,MSI,20999,19949,https://http2.mlstatic.com/D_NQ_NP_802945-MLM46691839737_072021-O.jpg
+"Laptop Lenovo V-Series V14-IIL  iron gray 14"", Intel Core i3 1005G1  8GB de RAM 256GB SSD, Intel UHD Graphics G1 1366x768px Windows 10 Pro",Lenovo,11785,11785,https://http2.mlstatic.com/D_NQ_NP_849291-MLA46302409416_062021-O.jpg
+Laptop Lenovo 2 En 1 Touch D330 Intel Celeron 4gb 64gb + Kit,Lenovo,4999,4399,https://http2.mlstatic.com/D_NQ_NP_699574-MLM49567068723_042022-O.jpg
+Laptop Chromebook Asus - Intel N4020 - 128 Gb Emmc,Asus,6407,5499,https://http2.mlstatic.com/D_NQ_NP_998256-MLM49110822497_022022-O.jpg
+Laptop Lenovo 100 Chromebook Mediatek 4gb Ram 32gb+64gb Kit ,Lenovo,3599,2699,https://http2.mlstatic.com/D_NQ_NP_766195-MLM50172958961_062022-O.jpg
+Asus Tuf Dash Gamer Laptop Core I5 144hz Nvidia Rtx 3050ti,Asus,31999,29759,https://http2.mlstatic.com/D_NQ_NP_801587-MLM47605950027_092021-O.jpg
+Laptop Lenovo Legion 5 I7-10750h Gtx 1650 8 Ram 512 Ssd W10,Lenovo,24989,24989,https://http2.mlstatic.com/D_NQ_NP_988156-MLM47684270546_092021-O.jpg
+Laptop Asus Vivobook 15 X515ja-bq2060t Ci5 8gb 1tb+128gb Ssd,Asus,18999,17999,https://http2.mlstatic.com/D_NQ_NP_810033-MLA47847956424_102021-O.jpg
+Laptop Hp 245 G8 Amd Ryzen 3 Ram 8 Gb Dd 1 Tb + Ssd 128 Gb,HP,16999,13389,https://http2.mlstatic.com/D_NQ_NP_825803-MLM48128191607_112021-O.jpg
+Laptop Evolve 11.6 4g Lte Ram 4gb Memoria 64gb Intel Celeron,Evolve III,3069,3069,https://http2.mlstatic.com/D_NQ_NP_678525-MLM48536871346_122021-O.jpg
+Laptop Lenovo Flex 14  Fhd Touch Ryzen 7-16gb Ram- 512gb Ssd,Lenovo,18999,17859,https://http2.mlstatic.com/D_NQ_NP_738290-MLM49915414346_052022-O.jpg
+Laptop Hp 14-dk1508la Ryzen 3 3250u  Ssd 256gb 8gb Ram 14'' ,HP,10248,10248,https://http2.mlstatic.com/D_NQ_NP_603356-MLM48888294271_012022-O.jpg
+"Laptop Dell Vostro 3401 negra 14"", Intel Core i3 1005G1  8GB de RAM 1TB HDD, Intel UHD Graphics 1366x768px Windows 10 Pro",Dell,11370,11370,https://http2.mlstatic.com/D_NQ_NP_846528-MLA47131590839_082021-O.jpg
+Laptop Chromebook 14 Fhd Ryzen 3 ( 4gb + 128 Ssd ) Hp Amd,HP,6477,6477,https://http2.mlstatic.com/D_NQ_NP_934492-CBT48803673067_012022-O.jpg
+Lenovo Flex 5 15.6  Fhd 2-in-1 Ryzen-7-5700u 16gb Ram 512gb,Lenovo,24799,24799,https://http2.mlstatic.com/D_NQ_NP_997086-MLM47796027496_102021-O.jpg
+Laptop Hp 14 PuLG Intel Celeron 4gb Ram 64gb Ssd 14-dq0005d,HP,5663,5663,https://http2.mlstatic.com/D_NQ_NP_757804-MLM47716372158_092021-O.jpg
+"Laptop Lenovo IdeaPad 14IML05  platinum gray 14"", Intel Core i3 10110U  8GB de RAM 1TB HDD, Intel UHD Graphics 1366x768px Windows 10 Home",Lenovo,13799,13799,https://http2.mlstatic.com/D_NQ_NP_701898-MLA45012216147_022021-O.jpg
+"Laptop HP 15-dw1081wm roja 15.6"", Intel Pentium Gold 6405U  4GB de RAM 500GB HDD, Intel UHD Graphics 1366x768px Windows 10 Home",HP,10101,10101,https://http2.mlstatic.com/D_NQ_NP_625898-MLA45629481647_042021-O.jpg
+Think L560 15.6 Core I5 8gb Ram 500gb W10pro Reacondicionado (Reacondicionado),Dell,9999,9999,https://http2.mlstatic.com/D_NQ_NP_729380-MLM48904143631_012022-O.jpg
+Laptop Lenovo Thinkpad T495 Ryzen 5 Pro 3500u 8gb 512gb Ssd,Lenovo,20388,19989,https://http2.mlstatic.com/D_NQ_NP_739409-MLM43545246575_092020-O.jpg
+Laptop Lenovo Thinkpad T480s  I7-8650u Cpu 1.90g 16gb/256ssd (Reacondicionado),Lenovo,13999,13999,https://http2.mlstatic.com/D_NQ_NP_660466-MLM47712350187_092021-O.jpg
+Laptop Gamer Msi Geforce Gtx 1650 Core I5 16gb 1tb 256gb Ssd,MSI,28989,24899,https://http2.mlstatic.com/D_NQ_NP_665897-MLM47730910459_102021-O.jpg
+Laptop Hp Gamer Core I5 Gtx 1650 4gb (256 Ssd + 8gb) Nvidia,HP,20774,19147,https://http2.mlstatic.com/D_NQ_NP_872855-CBT47164046310_082021-O.jpg
+Msi Gf63 Gaming Laptop Core I5 Nvidia Gtx1650 256gb Ssd 8gb,MSI,20999,19949,https://http2.mlstatic.com/D_NQ_NP_802945-MLM46691839737_072021-O.jpg
+"Laptop Lenovo V-Series V14-IIL  iron gray 14"", Intel Core i3 1005G1  8GB de RAM 256GB SSD, Intel UHD Graphics G1 1366x768px Windows 10 Pro",Lenovo,11785,11785,https://http2.mlstatic.com/D_NQ_NP_849291-MLA46302409416_062021-O.jpg
+Laptop Hp 240 G8 Intel Core I5 Ram 8 Gb Dd 1 Tb Win 10 Home,HP,11439,11439,https://http2.mlstatic.com/D_NQ_NP_639729-MLM47719159998_092021-O.jpg
+Laptop Chromebook Asus - Intel N4020 - 128 Gb Emmc,Asus,6407,5499,https://http2.mlstatic.com/D_NQ_NP_998256-MLM49110822497_022022-O.jpg
+Laptop Lenovo 100 Chromebook Mediatek 4gb Ram 32gb+64gb Kit ,Lenovo,3599,2699,https://http2.mlstatic.com/D_NQ_NP_766195-MLM50172958961_062022-O.jpg
+Asus Tuf Dash Gamer Laptop Core I5 144hz Nvidia Rtx 3050ti,Asus,31999,29759,https://http2.mlstatic.com/D_NQ_NP_801587-MLM47605950027_092021-O.jpg
+Laptop Lenovo Legion 5 I7-10750h Gtx 1650 8 Ram 512 Ssd W10,Lenovo,24989,24989,https://http2.mlstatic.com/D_NQ_NP_988156-MLM47684270546_092021-O.jpg
+Laptop Dell Latitude 7480 I7 7th 16gb Ram 240gb Ssd Win10 (Reacondicionado),Dell,10600,10600,https://http2.mlstatic.com/D_NQ_NP_981545-MLM49119542506_022022-O.jpg
+Asus Vivobook Go E510ma-br632t Celeron 8gb 128gb Emmc,Asus,9999,8316,https://http2.mlstatic.com/D_NQ_NP_764831-MLA48345993942_112021-O.jpg
+Laptop Asus Vivobook 15 X515ja-bq2060t Ci5 8gb 1tb+128gb Ssd,Asus,18999,17999,https://http2.mlstatic.com/D_NQ_NP_810033-MLA47847956424_102021-O.jpg
+Laptop Hp 245 G8 Amd Ryzen 3 Ram 8 Gb Dd 1 Tb + Ssd 128 Gb,HP,16999,13389,https://http2.mlstatic.com/D_NQ_NP_825803-MLM48128191607_112021-O.jpg
+Laptop Lenovo Flex 14  Fhd Touch Ryzen 7-16gb Ram- 512gb Ssd,Lenovo,18999,17859,https://http2.mlstatic.com/D_NQ_NP_738290-MLM49915414346_052022-O.jpg
+Laptop Hp 14-dk1508la Ryzen 3 3250u  Ssd 256gb 8gb Ram 14'' ,HP,10248,10248,https://http2.mlstatic.com/D_NQ_NP_603356-MLM48888294271_012022-O.jpg
+"Laptop Dell Vostro 3401 negra 14"", Intel Core i3 1005G1  8GB de RAM 1TB HDD, Intel UHD Graphics 1366x768px Windows 10 Pro",Dell,11370,11370,https://http2.mlstatic.com/D_NQ_NP_846528-MLA47131590839_082021-O.jpg
+Laptop Chromebook 14 Fhd Ryzen 3 ( 4gb + 128 Ssd ) Hp Amd,HP,6477,6477,https://http2.mlstatic.com/D_NQ_NP_934492-CBT48803673067_012022-O.jpg
+Lenovo Flex 5 15.6  Fhd 2-in-1 Ryzen-7-5700u 16gb Ram 512gb,Lenovo,24799,24799,https://http2.mlstatic.com/D_NQ_NP_997086-MLM47796027496_102021-O.jpg
+Laptop Hp 14 PuLG Intel Celeron 4gb Ram 64gb Ssd 14-dq0005d,HP,5663,5663,https://http2.mlstatic.com/D_NQ_NP_757804-MLM47716372158_092021-O.jpg
+"Laptop Lenovo IdeaPad 14IML05  platinum gray 14"", Intel Core i3 10110U  8GB de RAM 1TB HDD, Intel UHD Graphics 1366x768px Windows 10 Home",Lenovo,13799,13799,https://http2.mlstatic.com/D_NQ_NP_701898-MLA45012216147_022021-O.jpg
+Laptop Dell Latitude 5410 Corei5-10210u 8gb 256gb + Webcam,Dell,12999,12349,https://http2.mlstatic.com/D_NQ_NP_789661-MLM49657979495_042022-O.jpg
+Laptop Acer Predator Triton 500 Rtx2070 Core I7 32gb 1tb Ssd,Acer,62899,50999,https://http2.mlstatic.com/D_NQ_NP_705741-MLM47622640759_092021-O.jpg
+Laptop Thin & Light Swift 3 I5/8gb/512gb/13.5  Qhd 2256x1504,Acer,22999,14499,https://http2.mlstatic.com/D_NQ_NP_669402-MLM48139145731_112021-O.jpg
+"Laptop HP 15-dw1081wm roja 15.6"", Intel Pentium Gold 6405U  4GB de RAM 500GB HDD, Intel UHD Graphics 1366x768px Windows 10 Home",HP,10101,10101,https://http2.mlstatic.com/D_NQ_NP_625898-MLA45629481647_042021-O.jpg
+Think L560 15.6 Core I5 8gb Ram 500gb W10pro Reacondicionado (Reacondicionado),Dell,9999,9999,https://http2.mlstatic.com/D_NQ_NP_729380-MLM48904143631_012022-O.jpg
+Laptop Lenovo Thinkpad T495 Ryzen 5 Pro 3500u 8gb 512gb Ssd,Lenovo,20388,19989,https://http2.mlstatic.com/D_NQ_NP_739409-MLM43545246575_092020-O.jpg
+Laptop Lenovo Thinkpad T480s  I7-8650u Cpu 1.90g 16gb/256ssd (Reacondicionado),Lenovo,13999,13999,https://http2.mlstatic.com/D_NQ_NP_660466-MLM47712350187_092021-O.jpg
+Laptop Gamer Msi Geforce Gtx 1650 Core I5 16gb 1tb 256gb Ssd,MSI,28989,24899,https://http2.mlstatic.com/D_NQ_NP_665897-MLM47730910459_102021-O.jpg
+Laptop Hp Gamer Core I5 Gtx 1650 4gb (256 Ssd + 8gb) Nvidia,HP,20774,19147,https://http2.mlstatic.com/D_NQ_NP_872855-CBT47164046310_082021-O.jpg
+"Apple Macbook Pro (13 Pulgadas, Touch bar, cuatro puertos Thunderbolt 3, 1 TB de SSD) - Gris espacial",Apple,57499,52899,https://http2.mlstatic.com/D_NQ_NP_912171-MLA48708038394_122021-O.jpg
+Laptop Hp 640 G2 - Core I7 Gen 6 - 8 Ram - Hdd 500gb (Reacondicionado),HP,5499,5499,https://http2.mlstatic.com/D_NQ_NP_618760-MLM49709917217_042022-O.jpg
+"Laptop Asus 15.6  Hd 8 Gb Ram - 256 Gb Ssd, I3 10a Gen,  W10",Asus,10699,8987,https://http2.mlstatic.com/D_NQ_NP_671321-MLM49592746207_042022-O.jpg
+Laptop Gemibook Pro J4125 8gb 256 Ssd Metal Backlit,Chuwi,7937,7381,https://http2.mlstatic.com/D_NQ_NP_654891-CBT48964952250_012022-O.jpg
+Laptop Gamer Dell Amd Radeon Vega Ryzen 5 12gb Ssd 15.6,Dell,16999,13499,https://http2.mlstatic.com/D_NQ_NP_627906-MLM45242695660_032021-O.jpg
+Laptop Dell Vostro 3400:procesador Intel Core I5 1135g7,Dell,14199,14199,https://http2.mlstatic.com/D_NQ_NP_890738-MLM44965545165_022021-O.jpg
+"Laptop gamer Lenovo IdeaPad 15ARH05  chameleon blue 15.6"", AMD Ryzen 7 4800H  16GB de RAM 1TB HDD 128GB SSD, NVIDIA GeForce GTX 1650 60 Hz 1920x1080px Windows 10 Home",Lenovo,29997,27897,https://http2.mlstatic.com/D_NQ_NP_696780-MLA48623916798_122021-O.jpg
+Laptop Lenovo 14  Amd Ryzen 5-5500u 8gb Ram 256gb Ssd 14alc6,Lenovo,12499,11874,https://http2.mlstatic.com/D_NQ_NP_813257-MLM49133224897_022022-O.jpg
+Laptop Lenovo Ideapad 5-14itl Core I7 8gb Ram + 512 Ssd Gris,Lenovo,25999,24699,https://http2.mlstatic.com/D_NQ_NP_716957-MLM44445742839_122020-O.jpg
+Laptop Lenovo Thinkbook 14 Core I3 8gb 1tb + Audifonos Swiss,Lenovo,11899,11899,https://http2.mlstatic.com/D_NQ_NP_690979-MLM48052424236_102021-O.jpg
+"Laptop Dell Latitude 5420 gris 355.6mm, Intel Core i7 1165G7  16GB de RAM 512GB SSD, Intel Iris Xe Graphics G7 96EUs 1920x1080px Windows 10 Pro",Dell,29997,29997,https://http2.mlstatic.com/D_NQ_NP_939876-MLA48914284755_012022-O.jpg
+Laptop Dell Vostro 3400 14 Hd I3-1115g4 8 Gb 1 Tb Hdd W10 P,Dell,12738,12489,https://http2.mlstatic.com/D_NQ_NP_745954-MLM48029603605_102021-O.jpg
+"Asus Go,14 Fhd,celeron,4gb Ram,128 Ssd,numberpad",Asus,7999,5999,https://http2.mlstatic.com/D_NQ_NP_921900-MLA49865664421_052022-O.jpg
+Laptop Hp 14-cf2512la Intel Pentium Gold 6405u 8gb 256gb 14 Gris,HP,9999,9999,https://http2.mlstatic.com/D_NQ_NP_830529-MLM49727375506_042022-O.jpg
+Hp Laptop 14 Fhd Intel Core I3-1125g4 4gb 128 Ssd W10h S,HP,9499,8549,https://http2.mlstatic.com/D_NQ_NP_974399-MLM48926737651_012022-O.jpg
+Laptop Hp 240 G8 Intel Core I3  Ram 4 Gb Dd 500 Gb,HP,8399,8399,https://http2.mlstatic.com/D_NQ_NP_976266-MLM47858468765_102021-O.jpg
+Laptop Lenovo Ideapad 3 15iml05 Intel Core I3 12gb 1tb 15.6 ,Lenovo,13999,12499,https://http2.mlstatic.com/D_NQ_NP_795768-MLM49144402690_022022-O.jpg
+"Laptop Lenovo IdeaPad S145-14AST  negra ónix 14"", AMD A4-Series 9125  4GB de RAM 500GB HDD, AMD Radeon R3 1366x768px Windows 10 Home",Lenovo,8309,8309,https://http2.mlstatic.com/D_NQ_NP_800423-MLA44996992516_022021-O.jpg
+"Laptop gamer Acer Predator Helios 300 PH315-53 abyss black 15.6"", Intel Core i7 10750H  16GB de RAM 512GB SSD, NVIDIA GeForce RTX 3060 144 Hz 1920x1080px Windows 10 Home",Acer,35999,35999,https://http2.mlstatic.com/D_NQ_NP_808105-MLA48914413235_012022-O.jpg
+"Asus Zenbook 13 Oled,core I5 11th, 8gb Ram, 512ssd.numberpad",Asus,22999,22079,https://http2.mlstatic.com/D_NQ_NP_730292-MLA49722740824_042022-O.jpg
+Laptop Hp 15.6 Core I5-1135g7 8gb Ram 256gb Ssd Windows 11,HP,14999,13999,https://http2.mlstatic.com/D_NQ_NP_980070-MLM49074788388_022022-O.jpg
+Laptop Lenovo Legion 5 Ryzen 5 8gb Ram 1tb + 128gb Rtx2060,Lenovo,30999,23999,https://http2.mlstatic.com/D_NQ_NP_740301-MLM49174371024_022022-O.jpg
+Laptop Lenovo Ideapad3 15itl05 Intel Ci3 8gb 256gb Ssd Touch,Lenovo,10999,9899,https://http2.mlstatic.com/D_NQ_NP_741098-MLM49603067270_042022-O.jpg
+Laptop Lenovo Thinkbook 14 Intel Core I3 8gb Ram 1tb W10 Pro,Lenovo,15999,15999,https://http2.mlstatic.com/D_NQ_NP_709253-MLM48172150154_112021-O.jpg
+Laptop Hp 15.6 Fhd Ryzen 5500u 8gb Ram 256gb Ssd W10 H Msi,HP,13549,13549,https://http2.mlstatic.com/D_NQ_NP_882495-MLM48563254511_122021-O.jpg
+Laptop Dell Latitude 3420 14  Hd I5-1135g7 8gb 256gb Ssd W10,Dell,16308,15989,https://http2.mlstatic.com/D_NQ_NP_963158-MLM47341921383_092021-O.jpg
+Laptop Hp G8 240 Core I3 -1005g1 Memoria 4gb 500gb 14 Win10h,HP,8799,8799,https://http2.mlstatic.com/D_NQ_NP_812026-MLM48985789969_012022-O.jpg
+Laptop Gamer Dell G3 3590 I5-9300h 8gb 512gb Ssd Gtx 1650,Dell,19999,17999,https://http2.mlstatic.com/D_NQ_NP_826153-MLM45883090177_052021-O.jpg
+Portátil Lenovo 14 Intel Pentium N5030 4gb De Ram 128gb Ssd,Lenovo,8833,8833,https://http2.mlstatic.com/D_NQ_NP_890387-CBT48009525675_102021-O.jpg
+Laptop Acer Aspire 3 Core I3 4gb Ram + 128gb Ssd Windows 10,Acer,12999,9996,https://http2.mlstatic.com/D_NQ_NP_717347-MLM48476564267_122021-O.jpg
+Laptop Gemibook Pro J4125 Con Win10 Y 8 Gb De Memoria Ram,Chuwi,7937,7381,https://http2.mlstatic.com/D_NQ_NP_670803-CBT48962839601_012022-O.jpg
+Lenovo Ideapad 3 15.6 12gb Ram 256gb Ssd Core I5 Fhd Touch,Lenovo,15399,15399,https://http2.mlstatic.com/D_NQ_NP_627084-MLM48903946675_012022-O.jpg
+Laptop Hp 15-dy2050la Intel Core I3 Ram 8 Gb Ssd 256 Gb ,HP,15999,10799,https://http2.mlstatic.com/D_NQ_NP_613247-MLM48766748752_012022-O.jpg
+Notebook Dell Inspiron 3505 15.6 Pul Fhd Amd Ryzen 4 Gb Ram,Dell,13999,7559,https://http2.mlstatic.com/D_NQ_NP_661041-MLM48432068878_122021-O.jpg
+Laptop Hp Victus 16-d0502la Intel Core I5-11400 8gb 512gb,HP,31689,23499,https://http2.mlstatic.com/D_NQ_NP_984938-MLM49235653813_022022-O.jpg
+"Laptop Dell Latitude 3510 gris 15.6"", Intel Core i5 10210U  8GB de RAM 256GB SSD, Intel UHD Graphics 620 1920x1080px Windows 10 Pro",Dell,18201,18201,https://http2.mlstatic.com/D_NQ_NP_980310-MLA44938932860_022021-O.jpg
+Laptop Gemibook Pro J4125 8gb 256 Ssd Metal Backlit,Chuwi,7937,7381,https://http2.mlstatic.com/D_NQ_NP_654891-CBT48964952250_012022-O.jpg
+Laptop Hp Stream 14-cb171wm Snowflake 64gb Ssd 4gbram W-11,HP,5999,5399,https://http2.mlstatic.com/D_NQ_NP_674671-MLM49773526206_042022-O.jpg
+Laptop Lenovo Ideapad 3 Ryzen 3 8gb Ram 512gb Ssd Windows 10,Lenovo,15999,11249,https://http2.mlstatic.com/D_NQ_NP_613455-MLM49174317107_022022-O.jpg
+Laptop Dell Inspiron 3501 I3 8gb Ram + 256gb Ssd Windows 11,Dell,14449,13499,https://http2.mlstatic.com/D_NQ_NP_721239-MLM49175405220_022022-O.jpg
+Laptop Huawei Matebook D 16 Amd Ryzen 5 4600h 16gb 512gb Ssd,Huawei,23999,19999,https://http2.mlstatic.com/D_NQ_NP_951656-MLM49067147942_022022-O.jpg
+Chromebook Hp Touch ( 4gb + 128 Ssd ) Intel N4020 Chrome Os,HP,7041,5884,https://http2.mlstatic.com/D_NQ_NP_665379-CBT49401970033_032022-O.jpg
+Laptop Toshiba Satellite Pro Intel Core I3 10th 8gb 128ssd,Toshiba,10799,10259,https://http2.mlstatic.com/D_NQ_NP_717608-MLM49984858757_052022-O.jpg
+Laptop Dell Vostro 3400 Ci5 1135g7 1tb 8gb W10 Pro 04t3y,Dell,14604,14604,https://http2.mlstatic.com/D_NQ_NP_734232-MLM47181237001_082021-O.jpg
+Laptop Hp 240 G8 Intel Core I5-1035g1 Ram 8gb Dd 1tb W10,HP,11799,11799,https://http2.mlstatic.com/D_NQ_NP_894307-MLM49611987965_042022-O.jpg
+Laptop Dell Inspiron 7000 14  Touch Ryzen 5 8gb Ram 256 Ssd,Dell,14999,14249,https://http2.mlstatic.com/D_NQ_NP_689255-MLM49064471948_022022-O.jpg
+Laptop Gamer Dell Alienware M15 R6 I7 16gb 512g Ssd Rtx 3060,Dell,50799,45899,https://http2.mlstatic.com/D_NQ_NP_949594-MLM48394291408_112021-O.jpg
+"Apple Macbook Pro (13 Pulgadas, Touch bar, cuatro puertos Thunderbolt 3, 512 GB de SSD) - Gris espacial",Apple,48999,46549,https://http2.mlstatic.com/D_NQ_NP_845398-MLA48708052262_122021-O.jpg
+Laptop Gateway  Ryzen 7 3700u 512gb 8gb Grey W11 Rx Vega 10,Gateway,14199,12353,https://http2.mlstatic.com/D_NQ_NP_913827-MLM49615333385_042022-O.jpg
+Macbook Pro 13'' Retina Early 2015 I5 8gb 256gb Ssd Ox (Reacondicionado),Apple,13499,12824,https://http2.mlstatic.com/D_NQ_NP_612757-MLM49215210568_022022-O.jpg
+Laptop Huawei Matebook 16  Amd Ryzen 5 512gb Ssd + 16gb Ram,Huawei,29999,24999,https://http2.mlstatic.com/D_NQ_NP_721406-MLA48259559817_112021-O.jpg
+Laptop Hp 240 G8 Celeron N4020 Dual Core 4gb 500gb 14,HP,5469,5469,https://http2.mlstatic.com/D_NQ_NP_779567-MLA48623614781_122021-O.jpg
+Laptop Lenovo V14 Intel Celeron 128gb 4gb Ram 14puLG Win10,Lenovo,8299,4813,https://http2.mlstatic.com/D_NQ_NP_757052-MLM50173154036_062022-O.jpg
+Laptop Dell Inspiron 3515 Amd Ryzen 5 8gb De Ram 256gb Ssd,Dell,14299,14299,https://http2.mlstatic.com/D_NQ_NP_633664-MLA48265142893_112021-O.jpg
+"Laptop HP 240 G7 plateado ceniza oscuro 14"", Intel Core i3 1005G1  8GB de RAM 1TB HDD, Intel UHD Graphics G1 (Ice Lake 32 EU) 1366x768px Windows 10 Home",HP,11999,11999,https://http2.mlstatic.com/D_NQ_NP_694019-MLA46479872032_062021-O.jpg
+Laptop Dell Inspiron 15 Core I3 12gb 256gb Ssd 1tb 2tb Nube,Dell,17399,14499,https://http2.mlstatic.com/D_NQ_NP_779749-MLM47937601944_102021-O.jpg
+Laptop Huawei Matebook X Pro Intel I7 16gb + 512gb 2021 Gris,Huawei,39999,26999,https://http2.mlstatic.com/D_NQ_NP_890055-MLM46247508914_062021-O.jpg
+Laptop Asus Vivobook15 Intel Celeron 8gb + 1tb + 128gb Ssd,Asus,11999,8999,https://http2.mlstatic.com/D_NQ_NP_628836-MLA49474577596_032022-O.jpg
+Laptop Hp 14  Intel Core I3 4gb Ram 128 Ssd,HP,13999,10849,https://http2.mlstatic.com/D_NQ_NP_717039-MLM47954998099_102021-O.jpg
+"Chromebook Haier Flip Touch Convertible  32gb,4gb Ram ,11.6 ",Haier,3495,3495,https://http2.mlstatic.com/D_NQ_NP_792306-MLM31221631491_062019-O.jpg
+Laptop Dell Inspiron 3510 Celeron 4gb Ram 128ssd Windows 11 ,Dell,8999,7224,https://http2.mlstatic.com/D_NQ_NP_640480-MLA49166106038_022022-O.jpg
+Apple Macbook Pro 2016 13.3 Touch I5 2.9ghz 8gb Ram 250 Ssd (Reacondicionado),Apple,17888,15920,https://http2.mlstatic.com/D_NQ_NP_879184-MLM49257634067_032022-O.jpg
+Laptop Dell Vostro 3400 14 Hd I3-1115g4 8 Gb 1 Tb Hdd W10 P,Dell,14999,11899,https://http2.mlstatic.com/D_NQ_NP_852601-MLM48091235571_112021-O.jpg
+Laptop Asus 11.6  Vivobook E210ma 4gb Ram 64gb Windows 11,Asus,6499,5499,https://http2.mlstatic.com/D_NQ_NP_756879-MLM49233841024_022022-O.jpg
+Laptop Dell Latitude 3190 Celeron Ssd 128gb 4gb Win10 Home,Dell,9900,5742,https://http2.mlstatic.com/D_NQ_NP_859903-MLM47700893916_092021-O.jpg
+Laptop Asus 14 E410ma 64gb Emmc 4gb Ram Intel N4020 Rosa,Asus,8499,6999,https://http2.mlstatic.com/D_NQ_NP_997953-MLM47344405276_092021-O.jpg
+"Laptop Lenovo Ideapad Amd Ryzen 5 16gb 256gb 15,6 Hd Win10",Lenovo,15499,14724,https://http2.mlstatic.com/D_NQ_NP_989491-MLM49394002472_032022-O.jpg
+Laptop Thin & Light Swift 5 Core I5/8gb/512gb/ 14  Fhd Touch,Acer,27399,16999,https://http2.mlstatic.com/D_NQ_NP_984690-MLM48139172470_112021-O.jpg
+Laptop Gateway Ultra Slim 14 Core I3-10 Ram 4gb Ssd 128gb ,Gateway,9999,8749,https://http2.mlstatic.com/D_NQ_NP_667885-MLM48659880526_122021-O.jpg
+Laptop Asus L510ma Chromebook 4gb 64gb Hd Windows 10 Home,Asus,10999,5499,https://http2.mlstatic.com/D_NQ_NP_903060-MLM47846440465_102021-O.jpg
+Laptop Gamer Msi Gf65 Thin Rtx 3060 Core I5 8gb M.2 512gb,MSI,32989,26989,https://http2.mlstatic.com/D_NQ_NP_861324-MLM49633047729_042022-O.jpg
+Laptop Huawei Matebook E I3 8gb Ram + 128gb Gris + Teclado,Huawei,19999,15999,https://http2.mlstatic.com/D_NQ_NP_757103-MLM49448232260_032022-O.jpg
+Laptop Dell Latitude 3410 Core I5-10210u  8gb  1tb,Dell,13999,12879,https://http2.mlstatic.com/D_NQ_NP_813935-MLM45732733004_042021-O.jpg
+Laptop Gamer Lenovo Legion 5 Rtx 3060 Ryzen 5 8gb 512gb Ssd,Lenovo,34499,27899,https://http2.mlstatic.com/D_NQ_NP_738751-MLM49726097301_042022-O.jpg
+Laptop Gamer Msi Gf63 Geforce Gtx 1650 I5 16gb 1tb 256gb Ssd,MSI,28989,21989,https://http2.mlstatic.com/D_NQ_NP_835315-MLM47483058106_092021-O.jpg
+Laptop Gamer Hp 245 G8 Ryzen 5 5500u 8gb 1tb Radeon Vega,HP,14899,14899,https://http2.mlstatic.com/D_NQ_NP_915273-MLM48467167810_122021-O.jpg
+Laptop Gamer Msi Gl66 Pulse Rtx 3070 Core I7 512gb Ssd 16gb,MSI,46199,37989,https://http2.mlstatic.com/D_NQ_NP_860148-MLM49773341705_042022-O.jpg
+Laptop Hp 240 G8 14  Celeron N4020 4gb 500gb Uhd Cenizo,HP,5659,5659,https://http2.mlstatic.com/D_NQ_NP_779567-MLA48623614781_122021-O.jpg
+Laptop Huawei Matebook D 16 Ryzen 5 16gb Ram 512gb Ssd Gris,Huawei,25999,25999,https://http2.mlstatic.com/D_NQ_NP_908752-MLM45796885712_052021-O.jpg
+Laptop Dell 7470 Core I5 6ta 8 Gb 512 Ssd M.2 14fullhd W10 (Reacondicionado),Dell,8495,8070,https://http2.mlstatic.com/D_NQ_NP_942592-MLM47966818273_102021-O.jpg
+Laptop Vorago Alpha Plus Intel N4020 8gb 64gb Ssd 500gb 14,Vorago,13189,7499,https://http2.mlstatic.com/D_NQ_NP_819144-MLM48037318755_102021-O.jpg
+Huawei Matebook 14 Pulgadas Intel I5 512 Ssd+8 Gb,Huawei,17299,16434,https://http2.mlstatic.com/D_NQ_NP_711548-MLM48067988906_102021-O.jpg
+Laptop Ideapad Gaming 3i I7 Nvidia Gtx 1650 8 Ram 512 Ssd ,Lenovo,29900,24899,https://http2.mlstatic.com/D_NQ_NP_630464-MLM48311950816_112021-O.jpg
+Laptop 2 En 1 Lenovo D330 Win 10 Pro Touch Celeron 4gb 64gb ,Lenovo,5499,4564,https://http2.mlstatic.com/D_NQ_NP_890521-MLM48962391760_012022-O.jpg
+Lenovo Flex 5 13.3 Touch 2-en-1 Chromebook I3-10110u 128gb,Lenovo,14499,13774,https://http2.mlstatic.com/D_NQ_NP_823948-MLM47667565975_092021-O.jpg
+Laptop Lenovo Chromebook 3 11.6 4gb 32gb Hd Chrome Os Onyx,Lenovo,7999,2959,https://http2.mlstatic.com/D_NQ_NP_679062-MLM47846759919_102021-O.jpg
+Laptop Dell Latitude 7480 I7 7th 16gb Ram 240gb Ssd Win10 (Reacondicionado),Dell,10600,10600,https://http2.mlstatic.com/D_NQ_NP_981545-MLM49119542506_022022-O.jpg
+Laptop Dell Vostro 3400 14 Hd I3-1115g4 8 Gb 1 Tb Hdd W10 P,Dell,14999,11899,https://http2.mlstatic.com/D_NQ_NP_852601-MLM48091235571_112021-O.jpg
+Laptop Asus 11.6  Vivobook E210ma 4gb Ram 64gb Windows 11,Asus,6499,5499,https://http2.mlstatic.com/D_NQ_NP_756879-MLM49233841024_022022-O.jpg
+Laptop Dell Latitude 3190 Celeron Ssd 128gb 4gb Win10 Home,Dell,9900,5742,https://http2.mlstatic.com/D_NQ_NP_859903-MLM47700893916_092021-O.jpg
+Laptop Asus 14 E410ma 64gb Emmc 4gb Ram Intel N4020 Rosa,Asus,8499,6999,https://http2.mlstatic.com/D_NQ_NP_997953-MLM47344405276_092021-O.jpg
+"Laptop Lenovo Ideapad Amd Ryzen 5 16gb 256gb 15,6 Hd Win10",Lenovo,15499,14724,https://http2.mlstatic.com/D_NQ_NP_989491-MLM49394002472_032022-O.jpg
+Laptop Hp 11.6 11a-nb  Hd Chromebook 4gb 32gb Hd Chrome Os,HP,7999,2959,https://http2.mlstatic.com/D_NQ_NP_918471-MLM47849174022_102021-O.jpg
+Laptop Lenovo Chromebook 11 Pul Hd 4gb 16gb Wifi Bluetooth (Reacondicionado),Lenovo,3499,1994,https://http2.mlstatic.com/D_NQ_NP_885732-MLM48852567569_012022-O.jpg
+Laptop Thin & Light Swift 5 Core I5/8gb/512gb/ 14  Fhd Touch,Acer,27399,16999,https://http2.mlstatic.com/D_NQ_NP_984690-MLM48139172470_112021-O.jpg
+Laptop Gateway Ultra Slim 14 Core I3-10 Ram 4gb Ssd 128gb ,Gateway,9999,8749,https://http2.mlstatic.com/D_NQ_NP_667885-MLM48659880526_122021-O.jpg
+Laptop Asus L510ma Chromebook 4gb 64gb Hd Windows 10 Home,Asus,10999,5499,https://http2.mlstatic.com/D_NQ_NP_903060-MLM47846440465_102021-O.jpg
+Laptop Gamer Msi Gf65 Thin Rtx 3060 Core I5 8gb M.2 512gb,MSI,32989,26989,https://http2.mlstatic.com/D_NQ_NP_861324-MLM49633047729_042022-O.jpg
+Laptop Huawei Matebook E I3 8gb Ram + 128gb Gris + Teclado,Huawei,19999,15999,https://http2.mlstatic.com/D_NQ_NP_757103-MLM49448232260_032022-O.jpg
+Laptop Dell Latitude 3410 Core I5-10210u  8gb  1tb,Dell,13999,12879,https://http2.mlstatic.com/D_NQ_NP_813935-MLM45732733004_042021-O.jpg
+Laptop Gamer Lenovo Legion 5 Rtx 3060 Ryzen 5 8gb 512gb Ssd,Lenovo,34499,27899,https://http2.mlstatic.com/D_NQ_NP_738751-MLM49726097301_042022-O.jpg
+Laptop Gamer Msi Gf63 Geforce Gtx 1650 I5 16gb 1tb 256gb Ssd,MSI,28989,21989,https://http2.mlstatic.com/D_NQ_NP_835315-MLM47483058106_092021-O.jpg
+Laptop Gamer Hp 245 G8 Ryzen 5 5500u 8gb 1tb Radeon Vega,HP,14899,14899,https://http2.mlstatic.com/D_NQ_NP_915273-MLM48467167810_122021-O.jpg
+Laptop Gamer Msi Gl66 Pulse Rtx 3070 Core I7 512gb Ssd 16gb,MSI,46199,37989,https://http2.mlstatic.com/D_NQ_NP_860148-MLM49773341705_042022-O.jpg
+Laptop Gamer Xpg Xenia 15 Kc Core I7 32gb 1tb Ssd Rtx 3070,XPG,53499,37899,https://http2.mlstatic.com/D_NQ_NP_613727-MLM48125257406_112021-O.jpg
+Laptop Hp 240 G8 14  Celeron N4020 4gb 500gb Uhd Cenizo,HP,5659,5659,https://http2.mlstatic.com/D_NQ_NP_779567-MLA48623614781_122021-O.jpg
+Laptop Huawei Matebook D 16 Ryzen 5 16gb Ram 512gb Ssd Gris,Huawei,25999,25999,https://http2.mlstatic.com/D_NQ_NP_908752-MLM45796885712_052021-O.jpg
+Laptop Dell 7470 Core I5 6ta 8 Gb 512 Ssd M.2 14fullhd W10 (Reacondicionado),Dell,8495,8070,https://http2.mlstatic.com/D_NQ_NP_942592-MLM47966818273_102021-O.jpg
+Laptop Vorago Alpha Plus Intel N4020 8gb 64gb Ssd 500gb 14,Vorago,13189,7499,https://http2.mlstatic.com/D_NQ_NP_819144-MLM48037318755_102021-O.jpg
+Laptop Gamer Dell G15 15.6 I7-12700 16 Ram 512 Ssd Rtx3050ti,Dell,42000,33270,https://http2.mlstatic.com/D_NQ_NP_901363-MLM49785551889_042022-O.jpg
+Huawei Matebook 14 Pulgadas Intel I5 512 Ssd+8 Gb,Huawei,17299,16434,https://http2.mlstatic.com/D_NQ_NP_711548-MLM48067988906_102021-O.jpg
+Laptop Ideapad Gaming 3i I7 Nvidia Gtx 1650 8 Ram 512 Ssd ,Lenovo,29900,24899,https://http2.mlstatic.com/D_NQ_NP_630464-MLM48311950816_112021-O.jpg
+Laptop 2 En 1 Lenovo D330 Win 10 Pro Touch Celeron 4gb 64gb ,Lenovo,5499,4564,https://http2.mlstatic.com/D_NQ_NP_890521-MLM48962391760_012022-O.jpg
+Lenovo Flex 5 13.3 Touch 2-en-1 Chromebook I3-10110u 128gb,Lenovo,14499,13774,https://http2.mlstatic.com/D_NQ_NP_823948-MLM47667565975_092021-O.jpg
+"Dell Inspiron 15  Intel Celeron Windows 11  ,4gb, 128gb Ssd",Dell,9999,5499,https://http2.mlstatic.com/D_NQ_NP_782906-MLM49368042848_032022-O.jpg
+Laptop Porsche Design Acer Book Rs Core I5/8gb/512gb/touch,Acer,45999,24499,https://http2.mlstatic.com/D_NQ_NP_903705-MLM48139130029_112021-O.jpg
+Laptop Dell 7506 2en1 15.6 4k Touch I7-11va 16 Ram 1tb Ssd,Dell,31841,31841,https://http2.mlstatic.com/D_NQ_NP_795825-MLM49297764677_032022-O.jpg
+Microsoft Surface Laptop 3 13.5 Pantalla Táctil I5/8gb/128gb,Microsoft,19766,17790,https://http2.mlstatic.com/D_NQ_NP_731358-CBT48174297005_112021-O.jpg
+Laptop Hp  14   Core I3 11va 128gb Ssd 4gb Ram Win10 Plata,HP,12999,9099,https://http2.mlstatic.com/D_NQ_NP_600589-MLM49525491071_032022-O.jpg
+Laptop Gamer Lenovo Ryzen 7 3700u 16gb 2tb Radeon Rx Vega 10,Lenovo,22999,17499,https://http2.mlstatic.com/D_NQ_NP_770647-MLM48657626800_122021-O.jpg
+Laptop Core I7 11a (512 Ssd + 12gb) Lenovo 15 Fhd Win,Lenovo,23556,18157,https://http2.mlstatic.com/D_NQ_NP_861047-CBT49730995737_042022-O.jpg
+Laptop Hp 14-cf2542la Intel Celeron N4020 Ram 8 Gb Ssd 256gb,HP,11999,7999,https://http2.mlstatic.com/D_NQ_NP_847317-MLM49527188206_032022-O.jpg
+Msi Gf65 144hz Laptop Gamer Nvidia Rtx3060 512gb Ssd 8gb,MSI,25999,25999,https://http2.mlstatic.com/D_NQ_NP_740108-MLM48213549068_112021-O.jpg
+Laptop Dell E5430 Core I5 8gb+320gb Hdd Windows 10 (Reacondicionado),Dell,5999,5999,https://http2.mlstatic.com/D_NQ_NP_724878-MLM48212303705_112021-O.jpg
+Laptop Asus F515ja 15.6 Core I7-1065g7 8gb 512gb Ssd W10 Pro,Asus,19199,17999,https://http2.mlstatic.com/D_NQ_NP_684660-MLM46156855365_052021-O.jpg
+Laptop Gamer Asus Tuf F15 Nvidia Gtx 1650 I5 8gb 512gb Ssd,Asus,22799,22799,https://http2.mlstatic.com/D_NQ_NP_748831-MLM48026326898_102021-O.jpg
+Laptop Asus F515ja 15.6 Core I7-1065g7 8gb 512gb Ssd W10p,Asus,19424,17499,https://http2.mlstatic.com/D_NQ_NP_684660-MLM46156855365_052021-O.jpg
+Laptop Gamer Msi Gf65 Thin Rtx 3060 Core I5 16gb M.2 512gb,MSI,27989,27989,https://http2.mlstatic.com/D_NQ_NP_896035-MLM49635663711_042022-O.jpg
+Gateway Gwtn141 Core I3-1115g4 128gb Ssd 4gb 14.1 W10 Purple,Gateway,8499,8499,https://http2.mlstatic.com/D_NQ_NP_703139-MLM48384871162_112021-O.jpg
+Laptop Gamer Asus Rog Zephyrus Rtx 3060 Ryzen 9 16gb Ssd 1tb,Asus,41999,41999,https://http2.mlstatic.com/D_NQ_NP_761767-MLM49855422514_052022-O.jpg
+Portátil Asus Vivobook Gris Pizarra 15.6 I3 4gb 128gb,Asus,13304,9989,https://http2.mlstatic.com/D_NQ_NP_838819-CBT47952525041_102021-O.jpg
+Laptop Acer Aspire 1 A114-32-c087 14 Pulgadas 4gb Ddr4 64 Gb,Acer,5800,5800,https://http2.mlstatic.com/D_NQ_NP_845270-MLM46259036448_062021-O.jpg
+Laptop Dell Latitude 5420 Core I5 16gbram/256gbssd C/mochila,Dell,18873,18873,https://http2.mlstatic.com/D_NQ_NP_942312-MLM48968552698_012022-O.jpg
+Laptop 15.6 Gemibook X N5100 Chuwi 4+128gb Expandible Metal,Chuwi,6431,6110,https://http2.mlstatic.com/D_NQ_NP_763052-CBT48737998903_012022-O.jpg
+Laptop Hp Stream 11 G4 Windows 10 Pro 64gb 4gb Ram N3350 (Reacondicionado),HP,2398,2398,https://http2.mlstatic.com/D_NQ_NP_696196-MLM49817798232_042022-O.jpg
+Laptop Lenovo Thinkpad T480 I5 8va 8 Gb / 256 Gb Win 10 Pro (Reacondicionado),Lenovo,14499,9714,https://http2.mlstatic.com/D_NQ_NP_851911-MLM48026419764_102021-O.jpg
+Apple Macbook Retina 2016 8gb 256 Ssd Meet Zoom 12 Core M3  (Reacondicionado),Apple,13998,13998,https://http2.mlstatic.com/D_NQ_NP_785277-MLM49298802636_032022-O.jpg
+Hp Probook 650 G1 Core I5 4ta Gen 16gb Ram 800gb Ssd Webcam (Reacondicionado),HP,8798,8798,https://http2.mlstatic.com/D_NQ_NP_645169-MLM48502486435_122021-O.jpg
+"Laptop Dell Inspiron 5510 blue 15.6"", Intel Core i5 11320H  8GB de RAM 256GB SSD, Intel Iris Xe Graphics G7 96EUs 60 Hz 1920x1080px Windows 11 Home",Dell,16990,16990,https://http2.mlstatic.com/D_NQ_NP_881565-MLA49043957207_022022-O.jpg
+"Laptop Dell Vostro 3405 negra 14"", AMD Ryzen 5 3450U  8GB de RAM 256GB SSD, AMD Radeon RX Vega 8 60 Hz 1920x1080px Windows 10 Pro",Dell,14199,14199,https://http2.mlstatic.com/D_NQ_NP_789459-MLA48622611705_122021-O.jpg
+"Laptop Huawei MateBook D14 gris 14"", Intel Core i5 10210U  8GB de RAM 512GB SSD, Intel UHD Graphics 620 1920x1080px Windows 10 Home",Huawei,14999,14999,https://http2.mlstatic.com/D_NQ_NP_605750-MLA48463322295_122021-O.jpg
+Laptop Thin & Light Swift 3 Core I5/8gb/512gb/14  Fhd,Acer,22999,14499,https://http2.mlstatic.com/D_NQ_NP_969927-MLM48139146744_112021-O.jpg
+Laptop Dell Inspiron 3501 I3 8gb Ram + 256gb Ssd Windows 11,Dell,14449,13499,https://http2.mlstatic.com/D_NQ_NP_721239-MLM49175405220_022022-O.jpg
+Laptop Lenovo 100e Chromebook Mediatek 4gb Ram 32gb Nueva,Lenovo,3999,3999,https://http2.mlstatic.com/D_NQ_NP_964688-MLM49032684960_022022-O.jpg
+Hp Chromebook 14-db0031nr 14  Amd A4-9120c 4gb 32gb Chrome O (Reacondicionado),HP,2999,2999,https://http2.mlstatic.com/D_NQ_NP_616300-MLM47893336143_102021-O.jpg
+Laptop Hp Intel Ultima Generacion 8gb Delgada Ligera Regalos,HP,12580,10818,https://http2.mlstatic.com/D_NQ_NP_624273-MLM50183020432_062022-O.jpg
+"Laptop Asus 15.6  Hd 8 Gb Ram - 256 Gb Ssd, I3 10a Gen,  W10",Asus,10699,8987,https://http2.mlstatic.com/D_NQ_NP_671321-MLM49592746207_042022-O.jpg
+Laptop Lenovo 100e Chromebook 11.6 Amd A4 32gb Ram 4gb Nueva,Lenovo,5299,4292,https://http2.mlstatic.com/D_NQ_NP_889899-MLM47577492144_092021-O.jpg
+Laptop Thin & Light Swift 5 Core I5/8gb/512gb/ 14  Fhd Touch,Acer,27399,16999,https://http2.mlstatic.com/D_NQ_NP_984690-MLM48139172470_112021-O.jpg
+Laptop Chuwi Gemibook Pro Intel N5100 8+256gb Win10 Backlit,Chuwi,11807,7419,https://http2.mlstatic.com/D_NQ_NP_845001-CBT49291149570_032022-O.jpg
+Laptop Acer Travelmate P6 Intel Core I7 8gb Ram + 1tb Ssd,Acer,33999,25499,https://http2.mlstatic.com/D_NQ_NP_663826-MLM45263511986_032021-O.jpg
+Laptop Dell Latitude 3420 14 Core I7-1165g7 8gb 1tb W10p,Dell,20388,19989,https://http2.mlstatic.com/D_NQ_NP_950049-MLM46544376248_062021-O.jpg
+Laptop Hp 14 Fhd Amd Ryzen 3 3250u 128 Gb Ssd 4 Ram W10 Home,HP,9678,8989,https://http2.mlstatic.com/D_NQ_NP_766199-MLM47123433242_082021-O.jpg
+Lenovo Flex 5 15.6  Touch Fhd Ryzen 7 16 Ram 512 Ssd W10h Ms,Lenovo,22989,22989,https://http2.mlstatic.com/D_NQ_NP_850168-MLM49357290889_032022-O.jpg
+Laptop Huawei Matebook D 14 11th Gen Intel I7 16+512gb Plata,Huawei,26999,25999,https://http2.mlstatic.com/D_NQ_NP_785210-MLA49216912902_022022-O.jpg
+Laptop Lenovo V14 Igl Intel Celeron 4gb Ram 128gb Ssd 14 ,Lenovo,7499,4649,https://http2.mlstatic.com/D_NQ_NP_919848-MLM50012949039_052022-O.jpg
+Laptop Ghia 14.1 Lh514cp Libero Celeron J3355 4gb 128gb W10,Ghia,6174,5699,https://http2.mlstatic.com/D_NQ_NP_787934-MLM47700801230_092021-O.jpg
+Laptop Hp Elitebook 840:procesador Intel Core I5 6300u,HP,12699,12699,https://http2.mlstatic.com/D_NQ_NP_728680-MLM46846291420_072021-O.jpg
+Hp Probook 650 G1 Core I5 4ta Gen 8gb Ram 480gb Ssd Webcam (Reacondicionado),HP,7390,7390,https://http2.mlstatic.com/D_NQ_NP_654245-MLM48500248873_122021-O.jpg
+Laptop Dell Vostro 3400 Core I3 1115g4 8gb 1tb 14 W10 Pro,Dell,11095,11095,https://http2.mlstatic.com/D_NQ_NP_966232-MLM49869135534_052022-O.jpg
+Laptop Hp 14  Intel Core I3 4gb Ram 128 Ssd,HP,13999,10849,https://http2.mlstatic.com/D_NQ_NP_717039-MLM47954998099_102021-O.jpg
+Laptop Guia Libero Elite 14.1 Intel Core I3/8gbram/256gb Ssd,Ghia,7099,7099,https://http2.mlstatic.com/D_NQ_NP_925204-MLM49777884416_042022-O.jpg
+Laptop Lenovo Yoga 11e 4gb Ram. 128 Ssd Touchscreen. 2 En 1. (Reacondicionado),Lenovo,4298,4298,https://http2.mlstatic.com/D_NQ_NP_733789-MLM48480260276_122021-O.jpg
+Laptop Acer Aspire 5 N19c3 Ryzen 7 2tb Ram 8gb 15.6  W10h,Acer,17895,17895,https://http2.mlstatic.com/D_NQ_NP_942402-MLM46041384249_052021-O.jpg
+Laptop Hp 17.3  Ryzen 7 5700u 256gb Ssd 8 Ram Win 10 H,HP,17989,17989,https://http2.mlstatic.com/D_NQ_NP_682786-MLM49089464820_022022-O.jpg
+Laptop Lenovo 15itl05 I3 1115g4 Ssd 128gb Ram 4gb W11,Lenovo,10499,8294,https://http2.mlstatic.com/D_NQ_NP_677808-MLM49666749878_042022-O.jpg
+"Laptop Hp 15-ef1004la Amd 3020e 4gb 128gb Ssd 15,6 ",HP,9599,7699,https://http2.mlstatic.com/D_NQ_NP_871736-MLM49235653818_022022-O.jpg
+Laptop Hp Notebook 245 G8 Amd Ryzen 5 Ram 8 Gb Dd 1 Tb,HP,14999,13499,https://http2.mlstatic.com/D_NQ_NP_754344-MLM48254011021_112021-O.jpg
+Laptop Hp Pavilion 15-eh0002la Amd Ryzen 5 Ram 8gb Ssd 512gb,HP,12791,12791,https://http2.mlstatic.com/D_NQ_NP_826842-MLM49571022379_042022-O.jpg
+Dell Latitude E6520 Core I7-2620m  8gb/500gb  15.6'' (Reacondicionado),Dell,6900,6900,https://http2.mlstatic.com/D_NQ_NP_866943-MLM46431378215_062021-O.jpg
+Laptop Porsche Design Acer Book Rs Core I5/8gb/512gb/touch,Acer,45999,24499,https://http2.mlstatic.com/D_NQ_NP_903705-MLM48139130029_112021-O.jpg
+Laptop 2en1 Spin 3 Core I5/8gb/512gb/13.3  2560x1600/stylus,Acer,24899,17429,https://http2.mlstatic.com/D_NQ_NP_892558-MLM48139118442_112021-O.jpg
+Laptop Gaming Xpg Xenia Geforce Rtx3070 15 Kc I7 11800h 15.6,XPG,36995,36995,https://http2.mlstatic.com/D_NQ_NP_693766-MLM48477152086_122021-O.jpg
+"Asus Vivobook S, 14 Fhd, Ryzen 7,8gb Ram, 512 Ssd. Numberpad",Asus,17999,17999,https://http2.mlstatic.com/D_NQ_NP_947520-MLA49722740815_042022-O.jpg
+Laptop Adata Xpg Xenia14-intel Core I7-1165g7-16gb-512gb Ssd,XPG,25999,25999,https://http2.mlstatic.com/D_NQ_NP_894353-MLM48209574713_112021-O.jpg
+ Laptop Asus Tuf Gaming  Intel Core I5 10th 8gb Ram 512 Ssd,Asus,21800,21800,https://http2.mlstatic.com/D_NQ_NP_633632-MLM47626868541_092021-O.jpg
+"Laptop Acer Chromebook 315 Intel Celeron N4000 4gb 32gb 15,6",Acer,6999,6649,https://http2.mlstatic.com/D_NQ_NP_775619-MLM45297133550_032021-O.jpg
+Laptop Lenovo 100e Económica Estudiante 4gb 32gb Chrome New,Lenovo,3899,3899,https://http2.mlstatic.com/D_NQ_NP_753630-MLM49032829143_022022-O.jpg
+Laptop Gamer Msi Gf63 Geforce Gtx 1650 I5 16gb 1tb 256gb Ssd,MSI,28989,24899,https://http2.mlstatic.com/D_NQ_NP_728832-MLM47482974377_092021-O.jpg
+Laptop Asus Tuf Gaming A15 Geforce Rtx 3050 Ryzen 7 4800h,Asus,27195,27195,https://http2.mlstatic.com/D_NQ_NP_765187-MLM49940069605_052022-O.jpg
+Lenovo Ideapad 3 Laptop 15.6 Amd Ryzen 5-5500u 8gb 256gb Ssd,Lenovo,17999,15299,https://http2.mlstatic.com/D_NQ_NP_712381-MLM47083686724_082021-O.jpg
+Lenovo Thinkpad T440 Intel I5-4300m 8gb 256gb Ssd Hd 14 W10 (Reacondicionado),Lenovo,6999,6999,https://http2.mlstatic.com/D_NQ_NP_889444-MLM49855028983_052022-O.jpg
+Laptop Gamer Msi Geforce Gtx 1650 Intel I5 16gb 256gb Ssd,MSI,27989,23989,https://http2.mlstatic.com/D_NQ_NP_861918-MLM47730779670_102021-O.jpg
+Laptop Gamer Lenovo Ryzen 7 3700u 8gb 2tb Radeon Rx Vega 10,Lenovo,16799,16799,https://http2.mlstatic.com/D_NQ_NP_781443-MLM48456070608_122021-O.jpg
+Laptop Hp 14-dk1015la Amd Athlon 3050u Ram 4 Gb Ssd 256 Gb ,HP,9899,9899,https://http2.mlstatic.com/D_NQ_NP_814424-MLM47845669880_102021-O.jpg
+Laptop Thin & Light Swift 3 Core I5/8gb/512gb/14  Fhd,Acer,22999,14499,https://http2.mlstatic.com/D_NQ_NP_969927-MLM48139146744_112021-O.jpg
+Laptop Hp Chromebook 12´´táctil 360º Ram 4gb Emmc 64gb Y Más,HP,7999,6959,https://http2.mlstatic.com/D_NQ_NP_978759-MLM49349670297_032022-O.jpg
+Laptop Acer Aspire 5 A515-43-r3ly Ryzen 3 12gb Ram 1tb Plata,Acer,12699,12699,https://http2.mlstatic.com/D_NQ_NP_616387-MLM46173429801_052021-O.jpg
+Laptop Dell Precision Workstation Video I7 16gb Ssd 1tb 4k (Reacondicionado),Dell,17988,17088,https://http2.mlstatic.com/D_NQ_NP_660712-MLM47401495078_092021-O.jpg
+Laptop Lenovo 300e 2da Gen Intel Celeron N4120 4gb 64gb 11.6,Lenovo,4695,4695,https://http2.mlstatic.com/D_NQ_NP_668615-MLM49514402210_032022-O.jpg
+"Laptop HP 240 G7 gris 14"", Intel Celeron N4000  4GB de RAM 500GB HDD, Intel UHD Graphics 600 1366x768px FreeDOS",HP,6399,6399,https://http2.mlstatic.com/D_NQ_NP_624064-MLA46706832156_072021-O.jpg
+Macbook Pro Apple Retina 2015 13.3 I7 3.1ghz 16gb 500 Ssd (Reacondicionado),Apple,15988,14549,https://http2.mlstatic.com/D_NQ_NP_882006-MLM50027228177_052022-O.jpg
+Laptop Acer Predator Triton 500 Rtx2070 Core I7 32gb 1tb Ssd,Acer,62899,50999,https://http2.mlstatic.com/D_NQ_NP_705741-MLM47622640759_092021-O.jpg
+Laptop Hp Elitebook 840 G3 Intel C I5 16gbram Windows 10pro (Reacondicionado),HP,10999,10999,https://http2.mlstatic.com/D_NQ_NP_667661-MLM46955088022_082021-O.jpg
+Laptop Dell Inspiron 3501 15.6'' Intel Ci5 8gb Ram 256gb Ssd,Dell,17499,17199,https://http2.mlstatic.com/D_NQ_NP_704678-MLM49375530808_032022-O.jpg
+Lenovo Ideapad 3 15.6  Touch I3-1115g4 8gb Ram 256gb Ssd,Lenovo,14499,13339,https://http2.mlstatic.com/D_NQ_NP_691274-MLM48776743637_012022-O.jpg
+Laptop Hp 17 Intel Core I3-1115g4 8gb Ram 256gb Ssd Win 11 ,HP,12499,12499,https://http2.mlstatic.com/D_NQ_NP_637976-MLM49161094033_022022-O.jpg
+Laptop Dell Inspiron 3515 Ryzen 3 8gb Ram 256ssd Win11 Plata,Dell,12999,10138,https://http2.mlstatic.com/D_NQ_NP_992498-MLM49175451043_022022-O.jpg
+Laptop Chuwi Gemibook Pro Intel N5100 8+256gb Win10 Backlit,Chuwi,11807,7419,https://http2.mlstatic.com/D_NQ_NP_845001-CBT49291149570_032022-O.jpg
+Laptop Dell Inspiron 3501 Corei7-1165g7 12gb Ram 1tb,Dell,14999,14999,https://http2.mlstatic.com/D_NQ_NP_883978-MLM47938897761_102021-O.jpg
+Laptop Hp 15.6 Ips Full Hd Intel N4020 4gb Ram 128gb Ssd Lan,HP,9499,8739,https://http2.mlstatic.com/D_NQ_NP_756899-MLM47835603656_102021-O.jpg
+Laptop Dell Inspiron 3501 Corei3-1005g1 4gb Ram 1tb,Dell,9999,9499,https://http2.mlstatic.com/D_NQ_NP_886610-MLM48577047131_122021-O.jpg
+Laptop Acer Aspire 5 A515-45g-r854:video Radeon Rx550 Con,Acer,10499,10499,https://http2.mlstatic.com/D_NQ_NP_806068-MLM49929556087_052022-O.jpg
+Laptop Lenovo 300e 2da Gen Intel Celeron N4120 4gb 64gb 11.6,Lenovo,4695,4695,https://http2.mlstatic.com/D_NQ_NP_668615-MLM49514402210_032022-O.jpg
+Laptop Dell Inspiron 5510 I5 8gb Ram 512ssd Windows 11 Azul,Dell,22999,17640,https://http2.mlstatic.com/D_NQ_NP_857624-MLM49175425173_022022-O.jpg
+Laptop Dell Inspiron 3502 Pentium 8gb Ram + 128gb Ssd Plata,Dell,10999,8529,https://http2.mlstatic.com/D_NQ_NP_831994-MLM49175374364_022022-O.jpg
+Laptop Lenovo Ideapad 3 15.6 Intel Ci3 8gb 1tb + 128gb Ssd,Lenovo,14199,9939,https://http2.mlstatic.com/D_NQ_NP_848695-MLM49764046570_042022-O.jpg
+Dell Latitude 5285 Touch Intel I7-7600u 16gb 256gb Ssd Fhd (Reacondicionado),Dell,10499,10499,https://http2.mlstatic.com/D_NQ_NP_843997-MLM49985703357_052022-O.jpg
+Laptop Lenovo Carbono X1 Pantalla Touch Core I7 4ta 8de Ram (Reacondicionado),Lenovo,9790,9790,https://http2.mlstatic.com/D_NQ_NP_849782-MLM49581047730_042022-O.jpg
+Laptop Lenovo V-series V15-igl Intel Celeron N4020 4gb 500gb,Lenovo,7999,5699,https://http2.mlstatic.com/D_NQ_NP_675493-MLA45568495710_042021-O.jpg
+Laptop Gamer Msi Gf65 Thin Rtx 3060 Core I5 8gb 512gb Ssd M2 (Reacondicionado),MSI,32989,24081,https://http2.mlstatic.com/D_NQ_NP_607191-MLM49534712507_032022-O.jpg
+Remate Laptop Hp Económica Probook Hd Core I5 Ideal Escuela (Reacondicionado),HP,3949,3949,https://http2.mlstatic.com/D_NQ_NP_765620-MLM50054584002_052022-O.jpg
+"Laptop Hybook 14.1  Intel Celeron N3060 4gb, 64g W10 Mou/bag",Hyundai,6499,6499,https://http2.mlstatic.com/D_NQ_NP_955694-MLM48855984696_012022-O.jpg
+Laptop Hp 14-dk1503la Windows 10 Amd 3020e 4gb 128gb 14,HP,9599,7399,https://http2.mlstatic.com/D_NQ_NP_666240-MLM49235649789_022022-O.jpg
+Laptop Asus Chromebook Flip 14in I3-10110u 2.10ghz 128gb /v,Asus,19802,19802,https://http2.mlstatic.com/D_NQ_NP_748651-MLM45641120741_042021-O.jpg
+Laptop Asus Intel Core I7 1165g7 12gb 1tb 256gb Ssd 15.6 (Reacondicionado),Asus,17499,17499,https://http2.mlstatic.com/D_NQ_NP_869440-MLM49922241411_052022-O.jpg
+Apple Macbook Retina 2016 8gb 256 Ssd Meet Zoom 12 Core M3  (Reacondicionado),Apple,13998,13998,https://http2.mlstatic.com/D_NQ_NP_785277-MLM49298802636_032022-O.jpg
+Laptop Dell Inspiron 3501 Corei7-1165g7 8gb 256gb Ref (Reacondicionado),Dell,13899,12787,https://http2.mlstatic.com/D_NQ_NP_905746-MLM49738245437_042022-O.jpg
+Laptop Hp 245 G8 Amd Ryzen 3 5300u 16gb 1tb 14 Pulgadas,HP,16899,12899,https://http2.mlstatic.com/D_NQ_NP_986953-MLM49876650877_052022-O.jpg
+Laptop Huawei Matebook 13 2021 Intel Corei5 8+512gb Gris,Huawei,16999,16999,https://http2.mlstatic.com/D_NQ_NP_643969-MLM48896140182_012022-O.jpg
+Lap Top Hp Core I5 1135g7 1tb 12gb 17.3  Fhd W10 Silver  (Reacondicionado),HP,11999,11999,https://http2.mlstatic.com/D_NQ_NP_796175-MLM49855223315_052022-O.jpg
+Laptop Lenovo 100 Chromebook Mediatek 4gb Ram 32gb Chrome Os,Lenovo,3599,2591,https://http2.mlstatic.com/D_NQ_NP_969939-MLM50103997583_052022-O.jpg
+Laptop Gamer Dell Alienware M15 R6 I7 16gb 512g Ssd Rtx 3060,Dell,50799,45899,https://http2.mlstatic.com/D_NQ_NP_949594-MLM48394291408_112021-O.jpg
+Laptop Hp Envy 13-aq0011ms Intel Ci5 8gb Ram 256gb Ssd 13.3 ,HP,14999,13499,https://http2.mlstatic.com/D_NQ_NP_809203-MLM50012743520_052022-O.jpg
+Laptop Hp 240 G8 Intel Core I5-1035g1 Ram 8gb Dd 1tb Win10h,HP,11999,11999,https://http2.mlstatic.com/D_NQ_NP_694019-MLA46479872032_062021-O.jpg
+Laptop 14 Asus Rosa 64gb 4gb Office Y Antivirus Permanente  ,Asus,7499,7499,https://http2.mlstatic.com/D_NQ_NP_896990-MLM47640442474_092021-O.jpg
+Laptop Hp 14-dk1503la Windows 10 Amd 3020e 4gb 128gb 14,HP,9599,7399,https://http2.mlstatic.com/D_NQ_NP_666240-MLM49235649789_022022-O.jpg
+Laptop Gamer Dell G3 3590 I5-9300h 8gb 512gb Ssd Gtx 1650,Dell,19999,17999,https://http2.mlstatic.com/D_NQ_NP_826153-MLM45883090177_052021-O.jpg
+Laptop Dell Latitude 5420 Full Hd 16gb 512gb Ssd Windows /vc,Dell,37031,37031,https://http2.mlstatic.com/D_NQ_NP_646179-MLM49128278282_022022-O.jpg
+Laptop Asus Intel Celeron-n4500 4gb 64gb W10pro + Regalo,Asus,5999,5999,https://http2.mlstatic.com/D_NQ_NP_830384-MLM48872555812_012022-O.jpg
+Laptop Hp Elitebook 840 G3 Intel Core I5 6300 2.4ghz 8gb 256 (Reacondicionado),HP,7989,7989,https://http2.mlstatic.com/D_NQ_NP_976906-MLM49931883592_052022-O.jpg
+Laptop Gamer Asus Rog Zephyrus Rtx 3060 Ryzen 9 16gb Ssd 1tb,Asus,41999,41999,https://http2.mlstatic.com/D_NQ_NP_761767-MLM49855422514_052022-O.jpg
+Apple Macbook Pro 2017 13.3 Intel Core I5 2.3ghz 8gb Ram Ssd (Reacondicionado),Apple,16998,16998,https://http2.mlstatic.com/D_NQ_NP_839156-MLM49277909306_032022-O.jpg
+Laptop Hp 14-dk1508la Windows 10 Amd R3-3250u Dc 8gb 256gb,HP,14199,11599,https://http2.mlstatic.com/D_NQ_NP_617921-MLM49235655510_022022-O.jpg
+Laptop Vorago Alpha Intel Celeron 4gb 64+500gb Win10 Reacond (Reacondicionado),Vorago,4799,4799,https://http2.mlstatic.com/D_NQ_NP_953972-MLM49575492729_042022-O.jpg
+Lenovo Legion 5 Ryzen 7-5800h 16gb 512gb Ssd Fhd Rtx 3050ti (Reacondicionado),Lenovo,25999,25999,https://http2.mlstatic.com/D_NQ_NP_999145-MLM49155190107_022022-O.jpg
+ Laptop Hp Stream Celeron 4 Gb Ram 64 Gb Ssd Incluye Carcasa (Reacondicionado),HP,2499,2499,https://http2.mlstatic.com/D_NQ_NP_841505-MLM50165648136_062022-O.jpg
+Laptop 2en1 Spin 3 Core I5/8gb/512gb/13.3  2560x1600/stylus,Acer,24899,17429,https://http2.mlstatic.com/D_NQ_NP_892558-MLM48139118442_112021-O.jpg
+Hp Laptop 250 G8 15.6  Intel Coretm I5-1035g1 256ssd 57a50lt,HP,16999,16999,https://http2.mlstatic.com/D_NQ_NP_722445-MLM49517913467_032022-O.jpg
+Laptop Dell Latitude 7480 I7 7th 16gb Ram 240gb Ssd Win10 (Reacondicionado),Dell,10600,10600,https://http2.mlstatic.com/D_NQ_NP_981545-MLM49119542506_022022-O.jpg
+Laptop Hp 15-dy2050la Intel Core I3 Ram 8 Gb Ssd 256 Gb,HP,13799,10799,https://http2.mlstatic.com/D_NQ_NP_968326-MLM49303404755_032022-O.jpg
+Laptop Huaweimatebook 15.6pulgadas D15 Inteli5 Ram8gb 512ssd,Huawei,16990,16990,https://http2.mlstatic.com/D_NQ_NP_925603-MLM48995758140_022022-O.jpg
+Laptop Dell Latitude Profesional Core I5 Garantia De 1 Año,Dell,9099,9099,https://http2.mlstatic.com/D_NQ_NP_984847-MLM49526855531_032022-O.jpg
+Portátil 2en1 Shift Pro 11.6'' Touch Intel 4gb/64gb Win10p,Ghia,5823,5823,https://http2.mlstatic.com/D_NQ_NP_768564-MLM49786764644_042022-O.jpg
+Laptop Barata Core I5 6ta 4 Gb 500 Hdd 14  Hd W10 Pro Hp 440 (Reacondicionado),HP,6295,5980,https://http2.mlstatic.com/D_NQ_NP_672633-MLM49523231373_032022-O.jpg
+"Laptop gamer Lenovo Legion 5i negra 15.6"", Intel Core i7 10750H  16GB de RAM 1TB HDD 128GB SSD, NVIDIA GeForce RTX 2060 120 Hz 1920x1080px Windows 10 Home",Lenovo,35999,35999,https://http2.mlstatic.com/D_NQ_NP_810461-MLA46043486993_052021-O.jpg
+Lenovo Ideapad 3 (i5/8gb/512),Lenovo,13299,12501,https://http2.mlstatic.com/D_NQ_NP_818043-MLM48474234005_122021-O.jpg
+Laptop Gamer Lenovo Legion 5 Pro  R7 16/512 Rtx3060/6,Lenovo,45999,31739,https://http2.mlstatic.com/D_NQ_NP_948050-MLM48743134570_012022-O.jpg
+"Laptop Lenovo IdeaPad 15IIL05  almond 15.6"", Intel Core i5 1035G1  12GB de RAM 1TB HDD, Intel UHD Graphics G1 1366x768px Windows 10 Home",Lenovo,19999,15999,https://http2.mlstatic.com/D_NQ_NP_858948-MLA48623945153_122021-O.jpg
+Lenovo Thinkbook 15 G3 Acl,Lenovo,17999,17999,https://http2.mlstatic.com/D_NQ_NP_979842-MLM49740142868_042022-O.jpg
+Laptop Lenovo Ideapad 3 15iil05 (8gb/128ssd/1tb),Lenovo,11999,11999,https://http2.mlstatic.com/D_NQ_NP_814501-MLM48466622872_122021-O.jpg
+Laptop Gamer Lenovo Ideapad 3 Ci5 8-256/1tb Gtx1650/4,Lenovo,25999,18199,https://http2.mlstatic.com/D_NQ_NP_666616-MLM48742538483_012022-O.jpg
+Lenovo Thinkpad E14 Gen 2 (intel) Ci7 16gb / 512gb,Lenovo,31689,31689,https://http2.mlstatic.com/D_NQ_NP_670378-MLM48039017061_102021-O.jpg
+Laptop Gamer Acer Predator Triton 900 Pt917-71-9980,Acer,119999,119999,https://http2.mlstatic.com/D_NQ_NP_641666-MLM45263512474_032021-O.jpg
+Laptop Dell Inspiron 5510 I5 8gb Ram 512ssd Windows 11 Azul,Dell,22999,17640,https://http2.mlstatic.com/D_NQ_NP_857624-MLM49175425173_022022-O.jpg
+Laptop Lenovo Ideapad 3 15itl6:procesador Intel Core I5,Lenovo,14299,14299,https://http2.mlstatic.com/D_NQ_NP_634513-MLM49929680669_052022-O.jpg
+Laptop Dell Latitude 7490 Intel Core I7 8va 1.9 Ghz 16gb 512 (Reacondicionado),Dell,11989,11989,https://http2.mlstatic.com/D_NQ_NP_761904-MLM49707855567_042022-O.jpg
+Asus Rog Zephyrus G15 15.6  Qhd Laptop Rtx 3080 16gb 1tb Ssd,Asus,65000,65000,https://http2.mlstatic.com/D_NQ_NP_895726-MLM46586508745_072021-O.jpg
+Laptop Lenovo Ideapad 3 15.6 Intel Ci3 8gb 1tb + 128gb Ssd,Lenovo,14199,9939,https://http2.mlstatic.com/D_NQ_NP_848695-MLM49764046570_042022-O.jpg
+Msi Gf65 144hz Laptop Gamer Nvidia Rtx3060 512gb Ssd 8gb,MSI,37999,29259,https://http2.mlstatic.com/D_NQ_NP_627467-MLM46129194447_052021-O.jpg
+Laptop Gamer Acer Nitro 5 Rtx3060 I7 8gb 512gb 15.6 ,Acer,33999,33999,https://http2.mlstatic.com/D_NQ_NP_610515-MLM49888286227_052022-O.jpg
+Laptop Dell Latitude 7390 I5-8350u 8gb 256gb Teclado Inglés,Dell,12999,11959,https://http2.mlstatic.com/D_NQ_NP_712610-MLM48556955810_122021-O.jpg
+Laptop Gateway  Ryzen 7 3700u 512gb 8gb Grey W11 Rx Vega 10,Gateway,14899,13409,https://http2.mlstatic.com/D_NQ_NP_927203-MLM49638198434_042022-O.jpg
+Laptop Lenovo Chromebook 11.6 4gb 16gb Google Chrome (Reacondicionado),Lenovo,1999,1999,https://http2.mlstatic.com/D_NQ_NP_887983-MLM49111172870_022022-O.jpg
+Laptop Barata Core I5 6ta 4 Gb 500 Hdd 14  Hd W10 Pro Hp 440 (Reacondicionado),HP,6295,5980,https://http2.mlstatic.com/D_NQ_NP_672633-MLM49523231373_032022-O.jpg
+Apple Macbook Retina 2015 8gb 256 Ssd Meet Zoom 12 Core M5  (Reacondicionado),Apple,12998,12348,https://http2.mlstatic.com/D_NQ_NP_643720-MLM47837423092_102021-O.jpg
+Laptop Hp Elitebook 840 G3 Intel Core I5 6300 2.4ghz 8gb 256 (Reacondicionado),HP,7989,7989,https://http2.mlstatic.com/D_NQ_NP_976906-MLM49931883592_052022-O.jpg
+Laptop Hp Amd Ryzen 7-4700u 16gb 256gb Ssd Radeon Vega 10,HP,20999,20999,https://http2.mlstatic.com/D_NQ_NP_830592-MLM45522128583_042021-O.jpg
+" Hp  17-by3635cl Intel  I3-1005g1, 16gb Intel Optane 1tb Hdd",HP,12998,12998,https://http2.mlstatic.com/D_NQ_NP_920530-MLM44703525030_012021-O.jpg
+Notebook Ghia Libero 14.1 Celeron N3350 4gb 64gb Win 10 Pro,Ghia,5499,5499,https://http2.mlstatic.com/D_NQ_NP_936569-MLM46954898348_082021-O.jpg
+"Laptop Elitebook 840 G3, 8gb Ram, 256gb Ssd (Reacondicionado)",HP,7199,7199,https://http2.mlstatic.com/D_NQ_NP_999817-MLM49842244846_052022-O.jpg
+Laptop Lenovo 100e Chromebook 11.6 Economica 31gb 4 De Ram,Lenovo,2840,2840,https://http2.mlstatic.com/D_NQ_NP_859831-MLM49623151607_042022-O.jpg
+Laptop Dell Inspiron 3501 Corei3-1005g1 4gb Ram 1tb,Dell,9999,9499,https://http2.mlstatic.com/D_NQ_NP_886610-MLM48577047131_122021-O.jpg
+Laptop Dell Chromebook 3100 11.6 Celeron N4020 32gb 4gb Os,Dell,3999,3999,https://http2.mlstatic.com/D_NQ_NP_884313-MLM48939505759_012022-O.jpg
+Laptop Touch Acer Chromebook 4 Gb Ram 16 Gb Ssd Hdmi (Reacondicionado),Acer,2399,2399,https://http2.mlstatic.com/D_NQ_NP_928928-MLM49371686382_032022-O.jpg
+Laptop Huawei Matebook D 15 Intel Core I3 8gb+256gb Gris (Reacondicionado),Huawei,15999,13599,https://http2.mlstatic.com/D_NQ_NP_896965-MLM48706232055_122021-O.jpg
+"Laptop Lenovo IdeaPad 15IIL05  almond 15.6"", Intel Core i5 1035G1  12GB de RAM 1TB HDD, Intel UHD Graphics G1 1366x768px Windows 10 Home",Lenovo,19999,15999,https://http2.mlstatic.com/D_NQ_NP_858948-MLA48623945153_122021-O.jpg
+"Laptop gamer Lenovo Legion 5i negra 15.6"", Intel Core i7 10750H  16GB de RAM 1TB HDD 128GB SSD, NVIDIA GeForce RTX 2060 120 Hz 1920x1080px Windows 10 Home",Lenovo,35999,35999,https://http2.mlstatic.com/D_NQ_NP_810461-MLA46043486993_052021-O.jpg
+Laptop Gamer Lenovo Legion 5 Pro  R7 16/512 Rtx3060/6,Lenovo,45999,31739,https://http2.mlstatic.com/D_NQ_NP_948050-MLM48743134570_012022-O.jpg
+Laptop Lenovo Yoga 7 Convertible Intel Core I7 11va Gen Evo,Lenovo,29999,23999,https://http2.mlstatic.com/D_NQ_NP_835269-MLM44989860527_022021-O.jpg
+Laptop Gamer Lenovo Ideapad 3 Ci5 8-256/1tb Gtx1650/4,Lenovo,25999,18199,https://http2.mlstatic.com/D_NQ_NP_666616-MLM48742538483_012022-O.jpg
+Laptop Lenovo Ideapad 3 15iil05 (8gb/128ssd/1tb),Lenovo,11999,11999,https://http2.mlstatic.com/D_NQ_NP_814501-MLM48466622872_122021-O.jpg
+Laptop Gamer Dell G3 3590 I5-9300h 8gb 512gb Ssd Gtx 1650,Dell,19999,17999,https://http2.mlstatic.com/D_NQ_NP_826153-MLM45883090177_052021-O.jpg
+Laptop Asus Vivobook 15.6'' Oled Ryzen 5 8gb Ram 512ssd Gold,Asus,19999,18999,https://http2.mlstatic.com/D_NQ_NP_777643-MLA49066043177_022022-O.jpg
+Lenovo Thinkbook 15 G3 Acl,Lenovo,17999,17999,https://http2.mlstatic.com/D_NQ_NP_979842-MLM49740142868_042022-O.jpg
+Lenovo Thinkpad T14 Gen 2 Ci7-16/512ssd,Lenovo,44539,44539,https://http2.mlstatic.com/D_NQ_NP_944651-MLM48884169578_012022-O.jpg
+"Laptop Asus ZenBook Pro Duo UX482EG azul celestial táctil 14"", Intel Core i7 1165G7  16GB de RAM 1 TB SSD, NVIDIA GeForce MX450 1920x1080px Windows 10 Home",Asus,48999,48999,https://http2.mlstatic.com/D_NQ_NP_699434-MLA48061903838_102021-O.jpg
+Lenovo Thinkpad E14 Gen 2 (intel) Ci7 16gb / 512gb,Lenovo,31689,31689,https://http2.mlstatic.com/D_NQ_NP_670378-MLM48039017061_102021-O.jpg
+Lenovo Ideapad Gaming 3 15imh05 Ci5-8/1tb Gtx1650/4,Lenovo,21999,21999,https://http2.mlstatic.com/D_NQ_NP_864065-MLM48871130265_012022-O.jpg
+Laptop Hp Envy X360 15.6 Touchscreen Ryzen 7 12gb 512gb Ssd,HP,27999,27999,https://http2.mlstatic.com/D_NQ_NP_769408-MLM47845938130_102021-O.jpg
+Asus Zenbook Duo 14  Pantalla Touch I5 8gb Ram 512 Ssd,Asus,38999,38999,https://http2.mlstatic.com/D_NQ_NP_691285-MLM47593720297_092021-O.jpg
+Laptop Asus Rog Strix G17 17.3'' Ryzen 7 32gb 1tb Pcie Ssd,Asus,46080,46080,https://http2.mlstatic.com/D_NQ_NP_875838-MLM49243370249_032022-O.jpg
+Laptop Asus Tuf Gaming 15.6'' I7 16gb Ram 512gb Pcie Ssd,Asus,39360,39360,https://http2.mlstatic.com/D_NQ_NP_682290-MLM49243366431_032022-O.jpg
+Laptop Porsche Design Acer Book Rs Core I5/8gb/512gb/touch,Acer,45999,24499,https://http2.mlstatic.com/D_NQ_NP_903705-MLM48139130029_112021-O.jpg
+Laptop Hp Elitebook 840 G8 I5-1135g7u 8gb Ram 256gb Ssd Winp,HP,32989,30349,https://http2.mlstatic.com/D_NQ_NP_853272-MLM49356040003_032022-O.jpg
+Laptop Dell Ryzen5-3450u 8gb Ddr4 256gb Ssd W10-pro Mgjd2,Dell,12999,12999,https://http2.mlstatic.com/D_NQ_NP_699816-MLM46350572409_062021-O.jpg
+Laptop Gamer Lenovo 15.6 Gtx 1650 Ryzen 5 4600h 8gb 1tb M.2,Lenovo,18899,18899,https://http2.mlstatic.com/D_NQ_NP_838075-MLM45390166304_032021-O.jpg
+Laptop Lenovo Thinkpad L13 13 Core I7-1165g7 8gb 256 Ssd Msi,Lenovo,22989,22989,https://http2.mlstatic.com/D_NQ_NP_876818-MLM48812990261_012022-O.jpg
+Dell Xps 13 9305 Intel I5-1135g7 8gb 256ssd Fhd 13.3 Remate (Reacondicionado),Dell,16999,16999,https://http2.mlstatic.com/D_NQ_NP_667957-MLM49195873186_022022-O.jpg
+Laptop Huawei Matebook 13  Ips 512gb Ssd + 16gb Ram Ryzen 7,Huawei,24999,23749,https://http2.mlstatic.com/D_NQ_NP_941403-MLM47065489126_082021-O.jpg
+Laptop Ideapad Gaming 3i I7 8 Ram 512 Ssd Nvidia Gtx1650 Msi,Lenovo,25999,25999,https://http2.mlstatic.com/D_NQ_NP_856224-MLM48886795020_012022-O.jpg
+Laptop Dell Inspiron 15 3501 Core I3 1115g4 16gb 1tb + 256gb,Dell,19199,15699,https://http2.mlstatic.com/D_NQ_NP_813782-MLM49867768581_052022-O.jpg
+Macbook Pro 2016 Retina Core I7 16gb Ssd 1tb Touchbar A1706 (Reacondicionado),Apple,24988,22739,https://http2.mlstatic.com/D_NQ_NP_878136-MLM50027217430_052022-O.jpg
+Laptop Gamer Msi Gl66 Pulse Rtx 3070 Core I7 512gb Ssd 16gb,MSI,35000,35000,https://http2.mlstatic.com/D_NQ_NP_659325-MLA50138298108_052022-O.jpg
+Laptop Samsung Chromebook Tactil 12.2'' Ram 4gb Emmc 32gb ,Samsung,11599,9511,https://http2.mlstatic.com/D_NQ_NP_718866-MLM48987859643_012022-O.jpg
+Macbook Pro 2016 Intel I7 3.3ghz 16gb Ssd 500 Touchbar Apple (Reacondicionado),Apple,22868,21724,https://http2.mlstatic.com/D_NQ_NP_870201-MLM48865260998_012022-O.jpg
+Laptop Gateway 15.6  Pentium Silver 128gb 4ram + Office 365 ,Gateway,6599,6199,https://http2.mlstatic.com/D_NQ_NP_821984-MLM48562824208_122021-O.jpg
+Laptop Hp Stream 11 Intel Celeron N4000 Windows 10 4gb 32gb,HP,8999,4859,https://http2.mlstatic.com/D_NQ_NP_711788-MLM47262887001_082021-O.jpg
+Laptop Acer Core I3 10110u 8gb Ddr4 1tb Hdd 15.6 W10 Home,Acer,12785,12785,https://http2.mlstatic.com/D_NQ_NP_688703-MLM47500691788_092021-O.jpg
