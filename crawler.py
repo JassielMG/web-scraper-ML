@@ -7,13 +7,15 @@ import lxml
 import itertools
 import pandas as pd     
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
 import time
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
+
 
 
 class Spider:
@@ -54,8 +56,7 @@ class Spider:
            in each product category link of MercadoLibre website, 
            and returns all the links of the products explored in the first 10 pages."""
 
-        s = Service(os.path.join(os.getcwd(),"WebDriver","chromedriver.exe"))
-        driver = webdriver.Chrome(service=s)
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
         driver.get(self.url)  #Initialized webdriver
         time.sleep(self.delay_sleep)
 
